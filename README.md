@@ -18,6 +18,14 @@ Users of the system include customers, resort hotel staff, including front count
     * `/booking/hotel-activities`
 
 ## Lab 2 
+* Built an Edge Service (Receiver Service) that receives the 2 event types and stores them in a JSON file 
+    * `Receiver` folder contains `app.py`, `openapi.yaml`, and `events.json`
+    * Installed Packages in Virtual Environment (venv): 
+        * `pip install connexion`
+        * `pip install connexion[flask]`
+        * `pip install connexion[swagger-ui]`
+* Tested Edge Service with Apache JMeter and PostMan
+
 ### Installation: 
 * [Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi)
-* 
+* [PostMan](https://www.postman.com/downloads/)
