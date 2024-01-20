@@ -29,3 +29,5 @@ Users of the system include customers, resort hotel staff, including front count
 ### Installation: 
 * [Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi)
 * [PostMan](https://www.postman.com/downloads/)
+
+## Lab 3 
