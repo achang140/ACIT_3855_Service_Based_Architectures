@@ -1,0 +1,48 @@
+{
+  "hotel_room_count": 46,
+  "recent_hotel_room_reservation": [
+    {
+      "received_timestamp": "2024-01-17 16:12:23.159320",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Room Type: Single Bed"
+    },
+    {
+      "received_timestamp": "2024-01-17 16:12:23.134905",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Room Type: Single Bed"
+    },
+    {
+      "received_timestamp": "2024-01-17 16:12:23.102285",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Room Type: Single Bed"
+    },
+    {
+      "received_timestamp": "2024-01-17 16:12:23.094273",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Room Type: Single Bed"
+    },
+    {
+      "received_timestamp": "2024-01-17 16:12:23.078042",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Room Type: Single Bed"
+    }
+  ],
+  "hotel_activity_count": 36,
+  "recent_hotel_activity_reservation": [
+    {
+      "received_timestamp": "2024-01-17 16:12:23.183578",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Activity Name: Rock Climbing"
+    },
+    {
+      "received_timestamp": "2024-01-17 16:12:23.143019",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Activity Name: Rock Climbing"
+    },
+    {
+      "received_timestamp": "2024-01-17 16:12:23.126765",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Activity Name: Rock Climbing"
+    },
+    {
+      "received_timestamp": "2024-01-17 16:12:23.037833",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Activity Name: Rock Climbing"
+    },
+    {
+      "received_timestamp": "2024-01-17 16:12:23.001131",
+      "msg_data": "Customer ID:d290f1ee-6c54-4b01-90e6-d701748f0851, Activity Name: Rock Climbing"
+    }
+  ]
+}
