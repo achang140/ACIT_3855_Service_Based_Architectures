@@ -6,7 +6,6 @@ from sqlalchemy.orm import sessionmaker
 from base import Base
 from hotel_room import HotelRoom
 from hotel_activity import HotelActivity
-import datetime
 
 DB_ENGINE = create_engine("sqlite:///bookings.sqlite") # Connect to the database (db name: bookings.sqlite)
 Base.metadata.bind = DB_ENGINE
