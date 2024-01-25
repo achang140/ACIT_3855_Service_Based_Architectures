@@ -39,3 +39,6 @@ Users of the system include customers, resort hotel staff, including front count
         * `pip install requests`
 * Tested Edge Service with SwaggerUI and Apache JMeter 
     * Modified the JMeter script to include random data in the HTTP requests
+
+### Installation: 
+* [DB Browser (SQLite)](https://sqlitebrowser.org/)
