@@ -19,15 +19,23 @@ Users of the system include customers, resort hotel staff, including front count
 
 ## Lab 2 
 * Built an Edge Service (Receiver Service) that receives the 2 event types and stores them in a JSON file 
-    * `Receiver` folder contains `app.py`, `openapi.yaml`, and `events.json`
+    * `Receiver` folder contains `app.py` (port 8080), `openapi.yaml`, and `events.json`
     * Installed Packages in Virtual Environment (venv): 
         * `pip install connexion`
         * `pip install connexion[flask]`
         * `pip install connexion[swagger-ui]`
-* Tested Edge Service with Apache JMeter and PostMan
+* Tested Edge Service with SwaggerUI, Apache JMeter, and PostMan
+    * SwaggerUI: http://localhost:8080/ui/
 
 ### Installation: 
 * [Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi)
 * [PostMan](https://www.postman.com/downloads/)
 
 ## Lab 3 
+* Built a second service (Storage Service) following the 'database per service' pattern to store events in a database 
+    * `Storage` folder contains `app.py` (port 8090), `base.py`, `create_database.py`, `drop_tables.py`, `hotel_room.py`, and `hotel_activity.py`
+    * Installed Packages in Virtual Environment (venv): 
+        * `pip install SQLAlchemy`
+        * `pip install requests`
+* Tested Edge Service with SwaggerUI and Apache JMeter 
+    * Modified the JMeter script to include random data in the HTTP requests
