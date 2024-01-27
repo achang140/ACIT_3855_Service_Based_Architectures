@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan">
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
+    </TestPlan>
+    <hashTree>
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group">
+        <intProp name="ThreadGroup.num_threads">10</intProp>
+        <intProp name="ThreadGroup.ramp_time">1</intProp>
+        <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller">
+          <stringProp name="LoopController.loops">10</stringProp>
+          <boolProp name="LoopController.continue_forever">false</boolProp>
+        </elementProp>
+      </ThreadGroup>
+      <hashTree>
+        <RandomVariableConfig guiclass="TestBeanGUI" testclass="RandomVariableConfig" testname="Random Variable - Hotel Activity (num_of_people) " enabled="true">
+          <stringProp name="maximumValue">5</stringProp>
+          <stringProp name="minimumValue">1</stringProp>
+          <stringProp name="outputFormat">0</stringProp>
+          <boolProp name="perThread">true</boolProp>
+          <stringProp name="randomSeed">1</stringProp>
+          <stringProp name="variableName">HA_NUM_OF_PPL</stringProp>
+        </RandomVariableConfig>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request-Hotel Room Booking ">
+          <stringProp name="HTTPSampler.domain">127.0.0.1</stringProp>
+          <stringProp name="HTTPSampler.port">8080</stringProp>
+          <stringProp name="HTTPSampler.path">/booking/hotel-rooms</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.value">{&#xd;
+  &quot;hotel_id&quot;: &quot;${__RandomString(2,ABCDEFGHIJKLMNOPQRSTUVWXYZ,)}-${__Random(1,10,)}${__Random(1,10,)}&quot;,&#xd;
+  &quot;customer_id&quot;: &quot;${__UUID()}&quot;,&#xd;
+  &quot;room_id&quot;: &quot;${__RandomString(1,ABCDEFGHIJKLMNOPQRSTUVWXYZ,)}${__Random(100,999)}&quot;,&#xd;
+  &quot;room_type&quot;: &quot;${__javaScript(vars.get(&apos;room_type&apos;))}&quot;,&#xd;
+  &quot;num_of_people&quot;: ${__javaScript(vars.get(&quot;num_of_people&quot;))},&#xd;
+  &quot;check_in_date&quot;: &quot;${__RandomDate(yyyy-MM-dd,2024-01-01,2024-12-31)}&quot;,&#xd;
+  &quot;check_out_date&quot;: &quot;${__timeShift(yyyy-MM-dd,,P${__Random(1,30,)}D,,)}&quot;,&#xd;
+  &quot;timestamp&quot;: &quot;${__time(yyyy-MM-dd&apos;T&apos;HH:mm:ss.SSS&apos;Z&apos;)}&quot;&#xd;
+}&#xd;
+</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <JSR223PreProcessor guiclass="TestBeanGUI" testclass="JSR223PreProcessor" testname="JSR223 PreProcessor" enabled="true">
+            <stringProp name="scriptLanguage">javascript</stringProp>
+            <stringProp name="parameters"></stringProp>
+            <stringProp name="filename"></stringProp>
+            <stringProp name="cacheKey">true</stringProp>
+            <stringProp name="script">var roomTypes = {
+	1: &quot;Single Bed&quot;,
+	2: &quot;Double (King-Sized Bed)&quot;,
+	3: &quot;Triple (Queen-Sized Bed, Twin-Sized Bed)&quot;,
+	4: &quot;Quad (2 Queen-Sized Beds)&quot;
+}
+
+var num_of_people = Math.floor(Math.random() * 4) + 1
+// Set the num of people in the request
+vars.put(&quot;num_of_people&quot;, num_of_people);
+
+// Get the corresponding room type from the mapping
+var room_type = roomTypes[num_of_people];
+// Set the room type in the request
+vars.put(&quot;room_type&quot;, room_type);
+
+//log.info(&quot;num_of_people: &quot; + num_of_people);
+//log.info(&quot;room_type: &quot; + room_type);</stringProp>
+          </JSR223PreProcessor>
+          <hashTree/>
+          <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
+            <collectionProp name="HeaderManager.headers">
+              <elementProp name="" elementType="Header">
+                <stringProp name="Header.name">Content-Type</stringProp>
+                <stringProp name="Header.value">application/json</stringProp>
+              </elementProp>
+            </collectionProp>
+          </HeaderManager>
+          <hashTree/>
+        </hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request-Hotel Activity Reservation ">
+          <stringProp name="HTTPSampler.domain">127.0.0.1</stringProp>
+          <stringProp name="HTTPSampler.port">8080</stringProp>
+          <stringProp name="HTTPSampler.path">/booking/hotel-activities</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.value">{&#xd;
+  &quot;hotel_id&quot;: &quot;${__RandomString(2,ABCDEFGHIJKLMNOPQRSTUVWXYZ,)}-${__Random(1,10,)}${__Random(1,10,)}&quot;,&#xd;
+  &quot;customer_id&quot;: &quot;${__UUID()}&quot;,&#xd;
+  &quot;activity_id&quot;: &quot;${__javaScript(vars.get(&apos;activityId&apos;))}&quot;,&#xd;
+  &quot;activity_name&quot;: &quot;${__javaScript(vars.get(&apos;activityName&apos;))}&quot;,&#xd;
+  &quot;num_of_people&quot;: ${__Random(1,5)},&#xd;
+  &quot;reservation_date&quot;: &quot;${__RandomDate(yyyy-MM-dd,2024-01-01,2024-12-31)}&quot;,&#xd;
+  &quot;timestamp&quot;: &quot;${__time(yyyy-MM-dd&apos;T&apos;HH:mm:ss.SSS&apos;Z&apos;)}&quot;&#xd;
+}&#xd;
+</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <JSR223PreProcessor guiclass="TestBeanGUI" testclass="JSR223PreProcessor" testname="JSR223 PreProcessor" enabled="true">
+            <stringProp name="cacheKey">true</stringProp>
+            <stringProp name="filename"></stringProp>
+            <stringProp name="parameters"></stringProp>
+            <stringProp name="script">var hotelActivities = {
+    &quot;A1&quot;: &quot;Rock Climbing&quot;,
+    &quot;A2&quot;: &quot;Biking&quot;,
+    &quot;A3&quot;: &quot;Yoga&quot;,
+    &quot;A4&quot;: &quot;Zumba&quot;,
+    &quot;A5&quot;: &quot;Hot Spring&quot;,
+    &quot;A6&quot;: &quot;Swimming&quot;,
+    &quot;A7&quot;: &quot;Water Skiing&quot;,
+    &quot;A8&quot;: &quot;Wakeboarding&quot;,
+    &quot;A9&quot;: &quot;Snorkeling&quot;
+};
+
+var activityId = &quot;A&quot; + (Math.floor(Math.random() * 9) + 1).toString();
+// Set the activity id in the request
+vars.put(&quot;activityId&quot;, activityId);
+
+// Get the corresponding activity name from the mapping
+var activityName = hotelActivities[activityId];
+// Set the activity name in the request
+vars.put(&quot;activityName&quot;, activityName);
+</stringProp>
+            <stringProp name="scriptLanguage">javascript</stringProp>
+          </JSR223PreProcessor>
+          <hashTree/>
+          <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
+            <collectionProp name="HeaderManager.headers">
+              <elementProp name="" elementType="Header">
+                <stringProp name="Header.name">Content-Type</stringProp>
+                <stringProp name="Header.value">application/json</stringProp>
+              </elementProp>
+            </collectionProp>
+          </HeaderManager>
+          <hashTree/>
+        </hashTree>
+        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <objProp>
+            <name>saveConfig</name>
+            <value class="SampleSaveConfiguration">
+              <time>true</time>
+              <latency>true</latency>
+              <timestamp>true</timestamp>
+              <success>true</success>
+              <label>true</label>
+              <code>true</code>
+              <message>true</message>
+              <threadName>true</threadName>
+              <dataType>true</dataType>
+              <encoding>false</encoding>
+              <assertions>true</assertions>
+              <subresults>true</subresults>
+              <responseData>false</responseData>
+              <samplerData>false</samplerData>
+              <xml>false</xml>
+              <fieldNames>true</fieldNames>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
+              <responseDataOnError>false</responseDataOnError>
+              <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+              <assertionsResultsToSave>0</assertionsResultsToSave>
+              <bytes>true</bytes>
+              <sentBytes>true</sentBytes>
+              <url>true</url>
+              <threadCounts>true</threadCounts>
+              <idleTime>true</idleTime>
+              <connectTime>true</connectTime>
+            </value>
+          </objProp>
+          <stringProp name="filename"></stringProp>
+        </ResultCollector>
+        <hashTree/>
+      </hashTree>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>
