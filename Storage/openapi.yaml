@@ -59,6 +59,7 @@ components:
       - check_in_date
       - check_out_date 
       - timestamp 
+      - trace_id
       properties:
         hotel_id:
           type: string
@@ -90,6 +91,10 @@ components:
           type: string
           format: date-time
           example: '2023-07-29T09:12:33.001Z'
+        trace_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0852
       type: object
     
     HotelActivityBooking:
@@ -101,6 +106,7 @@ components:
       - num_of_people
       - reservation_date
       - timestamp 
+      - trace_id
       properties:
         hotel_id:
           type: string
@@ -128,4 +134,8 @@ components:
           type: string
           format: date-time
           example: '2023-08-08T09:12:33.001Z'
+        trace_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0853
       type: object

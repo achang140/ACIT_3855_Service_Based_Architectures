@@ -16,8 +16,9 @@ class HotelActivity(Base):
     reservation_date = Column(String(100), nullable=False)
     timestamp = Column(String(100), nullable=False)
     date_created = Column(DateTime, nullable=False)
+    trace_id = Column(String(250), nullable=False)
 
-    def __init__(self, hotel_id, customer_id, activity_id, activity_name, num_of_people, reservation_date, timestamp):
+    def __init__(self, hotel_id, customer_id, activity_id, activity_name, num_of_people, reservation_date, timestamp, trace_id):
         """ Initializes a hotel activity booking """
         self.hotel_id = hotel_id
         self.customer_id = customer_id
@@ -27,6 +28,7 @@ class HotelActivity(Base):
         self.reservation_date = reservation_date
         self.timestamp = timestamp
         self.date_created = datetime.datetime.now()
+        self.trace_id = trace_id
 
     def to_dict(self):
         """ Dictionary Representation of a hotel activity booking """
@@ -40,6 +42,7 @@ class HotelActivity(Base):
         dict["reservation_date"] = self.reservation_date
         dict["timestamp"] = self.timestamp
         dict["date_created"] = self.date_created
+        dict["trace_id"] = self.trace_id
 
         return dict 
 
