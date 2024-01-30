@@ -5,7 +5,6 @@ import yaml
 import logging
 import logging.config
 import uuid
-import os 
 
 with open('app_conf.yml', 'r') as f: 
     app_config = yaml.safe_load(f.read())

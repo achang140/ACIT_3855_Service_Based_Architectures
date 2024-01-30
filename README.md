@@ -32,7 +32,7 @@ Users of the system include customers, resort hotel staff, including front count
 * [PostMan](https://www.postman.com/downloads/)
 
 ## Lab 3 
-* Built a second service (Storage Service) following the 'database per service' pattern to store events in a database 
+* Built a second service (Data Storage Service) following the 'database per service' pattern to store events in a database 
     * `Storage` folder contains `app.py` (port 8090), `base.py`, `create_database.py`, `drop_tables.py`, `hotel_room.py`, and `hotel_activity.py`
     * Installed Packages in Virtual Environment (venv): 
         * `pip install SQLAlchemy`
@@ -42,3 +42,10 @@ Users of the system include customers, resort hotel staff, including front count
 
 ### Installation: 
 * [DB Browser (SQLite)](https://sqlitebrowser.org/)
+
+## Lab 4 
+* To add external configuration and logging to your Receiver Service (Lab 2) and Storage Service (Lab 3)
+* To convert your Storage Service (Lab3) from a SQLite DB to a MySQL DB (with minimal code changes)
+
+### Installation: 
+* [MySQL](https://dev.mysql.com/doc/refman/8.0/en/installing.html)
