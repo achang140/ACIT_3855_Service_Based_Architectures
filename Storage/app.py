@@ -46,7 +46,7 @@ def book_hotel_room(body):
     session.commit()
     session.close()
 
-    logger.info(f"Stored event Hotel Room Booking request with a trace id of {body['trace_id']}")
+    logger.debug(f"Stored event Hotel Room Booking request with a trace id of {body['trace_id']}")
 
     return NoContent, 201
 
@@ -69,7 +69,7 @@ def book_hotel_activity(body):
     session.commit()
     session.close()
 
-    logger.info("Stored event Hotel Activity Booking request with a trace id of %s", body["trace_id"])
+    logger.debug("Stored event Hotel Activity Booking request with a trace id of %s", body["trace_id"])
 
     return NoContent, 201
 
