@@ -9,13 +9,11 @@ from sqlalchemy.orm import sessionmaker
 from base import Base
 from stats import Stats
 
-import sqlite3
 import yaml 
 import logging
 import logging.config
 import requests
 import datetime
-import uuid
 
 from apscheduler.schedulers.background import BackgroundScheduler
 
@@ -37,11 +35,11 @@ DB_ENGINE = create_engine("sqlite:///%s" % app_config["datastore"]["filename"])
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
-def get_stats(body):
+def get_stats():
     """ Gets Hotel Room and Hotel Activity processsed statistics """
 
     # Log an INFO message indicating request has started
-    logging.info("Request Started")
+    logger.info("Request Started")
 
     # Read in the current statistics from the SQLite database (i.e., the row with the most recent last_update datetime stamp.
     session = DB_SESSION() 
@@ -50,7 +48,7 @@ def get_stats(body):
 
     # If no stats exist, log an ERROR message and return 404 and the message “Statistics do not exist” OR return empty/default statistics
     if stats is None:
-        logging.error("Statistics do not exist")
+        logger.error("Statistics do not exist")
         return "Statistics do not exist", 404
 
     # Convert them as necessary into a new Python dictionary such that the structure matches that of your response defined in the openapi.yaml file.
@@ -59,14 +57,15 @@ def get_stats(body):
         "max_hotel_room_ppl": stats.max_hotel_room_ppl,
         "num_hotel_activity_reservations": stats.num_hotel_activity_reservations,
         "max_hotel_activity_ppl": stats.max_hotel_activity_ppl,
-        "last_updated": stats.last_updated
     }
 
     # Log a DEBUG message with the contents of the Python Dictionary
-    logging.debug(statistics)
+    logger.debug(statistics)
 
     # Log an INFO message indicating request has completed
-    logging.info("Request Completed!")
+    logger.info("Request Completed!")
+
+    session.close() 
 
     # Return the Python dictionary as the context and 200 as the response code
     return statistics, 200 
@@ -80,13 +79,13 @@ def populate_stats():
     # Read in the current statistics from the SQLite database (filename defined in your configuration)
     session = DB_SESSION() 
     
-    print("Pass One!")
+    # print("Pass One!")
     
     # Query to get all the Stats objects from the database in descending order (from newest to oldest) 
     # Note that the first would be the most recent in this case 
     stats = session.query(Stats).order_by(Stats.last_updated.desc()).first() 
 
-    print("Pass Two!")
+    # print("Pass Two!")
 
     # - If no stats yet exist, use default values for the stats
     if stats is None:
@@ -98,14 +97,14 @@ def populate_stats():
             last_updated=datetime.datetime.now()
         )
 
-    print("Pass Three!")
+    # print("Pass Three!")
 
     # Get the current datetime
     current_datetime = datetime.datetime.now()
 
-    print(current_datetime)
-    print(stats.last_updated)
-    print("Pass Four!")
+    # print(current_datetime)
+    # print(stats.last_updated)
+    # print("Pass Four!")
 
     curren_dateime_formatted = current_datetime.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
     last_updated_formatted = stats.last_updated.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
@@ -115,57 +114,57 @@ def populate_stats():
     hotel_rooms_url = f"{app_config['eventstore']['url']}/booking/hotel-rooms?start_timestamp={last_updated_formatted}&end_timestamp={curren_dateime_formatted}"
     hotel_activities_url = f"{app_config['eventstore']['url']}/booking/hotel-activities?start_timestamp={last_updated_formatted}&end_timestamp={curren_dateime_formatted}"
 
-    print(hotel_rooms_url)
+    # print(hotel_rooms_url)
 
-    print("Pass Five!")
+    # print("Pass Five!")
 
     event_1_response = requests.get(hotel_rooms_url)
     event_2_response = requests.get(hotel_activities_url)
 
-    print(event_1_response)
-    print(event_2_response)
+    # print(event_1_response)
+    # print(event_2_response)
 
-    print("Pass Six!")
+    # print("Pass Six!")
 
     event_1_res_json = event_1_response.json()
     event_2_res_json = event_2_response.json()
 
-    print("Event 1:", len(event_1_res_json))
-    print(event_1_res_json)
-    print("Event 2:", len(event_2_res_json))
-    print(event_2_res_json)
+    # print("Event 1:", len(event_1_res_json))
+    # print(event_1_res_json)
+    # print("Event 2:", len(event_2_res_json))
+    # print(event_2_res_json)
 
     # - Log an INFO message with the number of events received
     if event_1_response.status_code == 200 and event_2_response.status_code == 200:
-        logging.info(f"Received {len(event_1_res_json)} Hotel Room Reservation events and {len(event_2_res_json)} Hotel Activity Reservation events")
+        logger.info(f"Received {len(event_1_res_json)} Hotel Room Reservation events and {len(event_2_res_json)} Hotel Activity Reservation events")
 
     # - Log an ERROR message if you did not get a 200 response code
     else:
-        logging.error(f'''Failed to retrieve events from Hotel Room and Hotel Activity Reservations:
+        logger.error(f'''Failed to retrieve events from Hotel Room and Hotel Activity Reservations:
                       
                         Hotel Rooms Error: {event_1_response.text},
 
                         Hotel Activities Error: {event_2_response.text}''')
         return 
 
-    print("Pass Seven!")
+    # print("Pass Seven!")
 
     # Based on the new events from the Data Store Service:
     # Calculate your updated statistics
 
     max_hotel_room_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_room_ppl.desc()).first() 
     max_hotel_room_ppl_int = max_hotel_room_ppl_sql.max_hotel_room_ppl
-    print(max_hotel_room_ppl_int)
+    # print(max_hotel_room_ppl_int)
     
     max_hotel_activity_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_activity_ppl.desc()).first() 
     max_hotel_activity_ppl_int = max_hotel_activity_ppl_sql.max_hotel_activity_ppl
-    print(max_hotel_activity_ppl_int) 
+    # print(max_hotel_activity_ppl_int)
 
 
     if len(event_1_res_json):
         max_hotel_room_ppl_json = max(event_1_res_json, key=lambda event1: event1["num_of_people"])["num_of_people"]
-        print(type(max_hotel_room_ppl_json))
-        print(max_hotel_room_ppl_json)
+        # print(type(max_hotel_room_ppl_json))
+        # print(max_hotel_room_ppl_json)
 
         if max_hotel_room_ppl_json > max_hotel_room_ppl_int:
             new_max_hotel_room_ppl = max_hotel_room_ppl_json
@@ -177,8 +176,8 @@ def populate_stats():
 
     if len(event_2_res_json):
         max_hotel_activity_ppl_json = max(event_2_res_json, key=lambda event2: event2["num_of_people"])["num_of_people"]
-        print(type(max_hotel_activity_ppl_json))
-        print(max_hotel_activity_ppl_json)
+        # print(type(max_hotel_activity_ppl_json))
+        # print(max_hotel_activity_ppl_json)
 
         if max_hotel_activity_ppl_json > max_hotel_activity_ppl_int:
             new_max_hotel_activity_ppl = max_hotel_activity_ppl_json
@@ -187,12 +186,12 @@ def populate_stats():
     else:
         new_max_hotel_activity_ppl = max_hotel_activity_ppl_int
     
-    print("Pass Eight!")
+    # print("Pass Eight!")
 
     new_num_hotel_room_reservations = stats.num_hotel_room_reservations + len(event_1_res_json)
     new_num_hotel_activity_reservations = stats.num_hotel_activity_reservations + len(event_2_res_json)
 
-    print("Pass Nine!")
+    # print("Pass Nine!")
 
     stats = Stats(
         num_hotel_room_reservations=new_num_hotel_room_reservations,
@@ -205,7 +204,7 @@ def populate_stats():
     # Write the updated statistics to the SQLite database file (filename defined in your configuration)
     session.add(stats)
 
-    print("Pass Ten!")
+    # print("Pass Ten!")
 
     # # Log a DEBUG message for each event processed that includes the trace_id
     if len(event_1_res_json):
@@ -216,7 +215,7 @@ def populate_stats():
         trace_ids = [event_2["trace_id"] for event_2 in event_2_res_json]
         logger.debug(f"Processed Hotel Activity Reservation Event Trace IDs: {', '.join(trace_ids)}")
 
-    print("Pass Eleven!")
+    # print("Pass Eleven!")
 
     # Log a DEBUG message with your updated statistics values
     logger.debug(f"Num Hotel Room Reservations: {stats.num_hotel_room_reservations} \n"
