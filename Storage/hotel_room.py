@@ -35,16 +35,16 @@ class HotelRoom(Base):
     def to_dict(self):
         """ Dictionary Representation of a hotel room booking """
         dict = {} 
-        dict["id"] = self.id 
+        # dict["id"] = self.id 
         dict["hotel_id"] = self.hotel_id
-        dict["customer_id"] = self.hotel_id
+        dict["customer_id"] = self.customer_id
         dict["room_id"] = self.room_id
         dict["room_type"] = self.room_type
         dict["num_of_people"] = self.num_of_people
         dict["check_in_date"] = self.check_in_date
         dict["check_out_date"] = self.check_out_date
         dict["timestamp"] = self.timestamp
-        dict["date_created"] = self.date_created
+        # dict["date_created"] = self.date_created
         dict["trace_id"] = self.trace_id
 
         return dict 

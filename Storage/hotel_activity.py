@@ -33,15 +33,15 @@ class HotelActivity(Base):
     def to_dict(self):
         """ Dictionary Representation of a hotel activity booking """
         dict = {} 
-        dict["id"] = self.id 
+        # dict["id"] = self.id 
         dict["hotel_id"] = self.hotel_id
-        dict["customer_id"] = self.hotel_id
+        dict["customer_id"] = self.customer_id
         dict["activity_id"] = self.activity_id
         dict["activity_name"] = self.activity_name
         dict["num_of_people"] = self.num_of_people
         dict["reservation_date"] = self.reservation_date
         dict["timestamp"] = self.timestamp
-        dict["date_created"] = self.date_created
+        # dict["date_created"] = self.date_created
         dict["trace_id"] = self.trace_id
 
         return dict 

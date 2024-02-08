@@ -602,3 +602,1011 @@
 2024-01-30 12:36:19,322 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of f871b545-e2e6-47c0-9736-bd1a5c4d16cc
 2024-01-30 12:36:19,326 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of 87ffddbe-3970-4adf-aded-460a0eae8704
 2024-01-30 12:36:19,328 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of 28daa495-7f62-4996-ab1b-03031bb22d61
+2024-02-07 16:05:30,904 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:05:28.822Z returns 0 results
+2024-02-07 16:05:32,387 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of a5ddd795-8e70-4dc6-aa08-a542338710a6
+2024-02-07 16:05:32,934 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:05:28.822Z returns 0 results
+2024-02-07 16:05:35,837 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:05:33.803Z returns 0 results
+2024-02-07 16:05:37,872 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:05:33.803Z returns 0 results
+2024-02-07 16:05:40,861 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:05:38.805Z returns 0 results
+2024-02-07 16:05:42,903 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:05:38.805Z returns 0 results
+2024-02-07 16:05:45,770 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of 481fb2d3-e49c-4c88-93bc-b9f966126230
+2024-02-07 16:05:45,841 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:05:43.805Z returns 0 results
+2024-02-07 16:05:47,875 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:05:43.805Z returns 0 results
+2024-02-07 16:05:50,842 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:05:48.801Z returns 0 results
+2024-02-07 16:05:52,894 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:05:48.801Z returns 0 results
+2024-02-07 16:05:55,830 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:05:53.795Z returns 0 results
+2024-02-07 16:05:57,879 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:05:53.795Z returns 0 results
+2024-02-07 16:06:00,842 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:05:58.804Z returns 0 results
+2024-02-07 16:06:02,889 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:05:58.804Z returns 0 results
+2024-02-07 16:06:05,822 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:03.798Z returns 0 results
+2024-02-07 16:06:07,865 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:03.798Z returns 0 results
+2024-02-07 16:06:10,839 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:08.798Z returns 0 results
+2024-02-07 16:06:12,890 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:08.798Z returns 0 results
+2024-02-07 16:06:15,838 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:13.802Z returns 0 results
+2024-02-07 16:06:17,887 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:13.802Z returns 0 results
+2024-02-07 16:06:20,829 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:18.798Z returns 0 results
+2024-02-07 16:06:22,876 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:18.798Z returns 0 results
+2024-02-07 16:06:25,849 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:23.807Z returns 0 results
+2024-02-07 16:06:27,894 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:23.807Z returns 0 results
+2024-02-07 16:06:30,831 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:28.794Z returns 0 results
+2024-02-07 16:06:32,878 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:28.794Z returns 0 results
+2024-02-07 16:06:35,854 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:33.798Z returns 0 results
+2024-02-07 16:06:37,909 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:33.798Z returns 0 results
+2024-02-07 16:06:40,857 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:38.797Z returns 0 results
+2024-02-07 16:06:42,926 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:38.797Z returns 0 results
+2024-02-07 16:06:45,840 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:43.795Z returns 0 results
+2024-02-07 16:06:47,896 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:43.795Z returns 0 results
+2024-02-07 16:06:50,862 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:48.802Z returns 0 results
+2024-02-07 16:06:52,920 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:48.802Z returns 0 results
+2024-02-07 16:06:55,828 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:53.804Z returns 0 results
+2024-02-07 16:06:57,859 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:53.804Z returns 0 results
+2024-02-07 16:06:58,291 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:07:00,825 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:06:58.793Z returns 0 results
+2024-02-07 16:07:01,319 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:07:02,877 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:06:58.793Z returns 0 results
+2024-02-07 16:07:05,825 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:03.791Z returns 0 results
+2024-02-07 16:07:07,858 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:03.791Z returns 0 results
+2024-02-07 16:07:10,847 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:08.791Z returns 0 results
+2024-02-07 16:07:12,877 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:08.791Z returns 0 results
+2024-02-07 16:07:15,495 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 305 results
+2024-02-07 16:07:15,855 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:13.794Z returns 0 results
+2024-02-07 16:07:17,910 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:13.794Z returns 0 results
+2024-02-07 16:07:20,844 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:18.791Z returns 0 results
+2024-02-07 16:07:22,867 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:18.791Z returns 0 results
+2024-02-07 16:07:25,845 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:23.809Z returns 0 results
+2024-02-07 16:07:27,887 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:23.809Z returns 0 results
+2024-02-07 16:07:30,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:28.794Z returns 0 results
+2024-02-07 16:07:32,897 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:28.794Z returns 0 results
+2024-02-07 16:07:35,850 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:33.806Z returns 0 results
+2024-02-07 16:07:37,888 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:33.806Z returns 0 results
+2024-02-07 16:07:40,865 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:38.806Z returns 0 results
+2024-02-07 16:07:42,907 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:38.806Z returns 0 results
+2024-02-07 16:07:45,849 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:43.801Z returns 0 results
+2024-02-07 16:07:47,863 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:43.801Z returns 0 results
+2024-02-07 16:07:50,829 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:48.801Z returns 0 results
+2024-02-07 16:07:52,879 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:48.801Z returns 0 results
+2024-02-07 16:07:55,839 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:53.797Z returns 0 results
+2024-02-07 16:07:57,869 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:53.797Z returns 0 results
+2024-02-07 16:08:00,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:07:58.797Z returns 0 results
+2024-02-07 16:08:02,882 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:07:58.797Z returns 0 results
+2024-02-07 16:08:05,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:03.804Z returns 0 results
+2024-02-07 16:08:07,897 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:03.804Z returns 0 results
+2024-02-07 16:08:10,855 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:08.806Z returns 0 results
+2024-02-07 16:08:12,886 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:08.806Z returns 0 results
+2024-02-07 16:08:15,843 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:13.810Z returns 0 results
+2024-02-07 16:08:17,900 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:13.810Z returns 0 results
+2024-02-07 16:08:20,833 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:18.798Z returns 0 results
+2024-02-07 16:08:22,887 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:18.798Z returns 0 results
+2024-02-07 16:08:25,852 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:23.806Z returns 0 results
+2024-02-07 16:08:27,913 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:23.806Z returns 0 results
+2024-02-07 16:08:30,863 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:28.801Z returns 0 results
+2024-02-07 16:08:32,917 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:28.801Z returns 0 results
+2024-02-07 16:08:35,834 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:33.804Z returns 0 results
+2024-02-07 16:08:37,895 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:33.804Z returns 0 results
+2024-02-07 16:08:40,837 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:38.810Z returns 0 results
+2024-02-07 16:08:42,898 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:38.810Z returns 0 results
+2024-02-07 16:08:45,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:43.807Z returns 0 results
+2024-02-07 16:08:47,905 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:43.807Z returns 0 results
+2024-02-07 16:08:50,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:48.807Z returns 0 results
+2024-02-07 16:08:52,904 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:48.807Z returns 0 results
+2024-02-07 16:08:55,847 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:53.807Z returns 0 results
+2024-02-07 16:08:57,920 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:53.807Z returns 0 results
+2024-02-07 16:09:00,840 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:08:58.802Z returns 0 results
+2024-02-07 16:09:02,897 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:08:58.802Z returns 0 results
+2024-02-07 16:09:05,831 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:03.801Z returns 0 results
+2024-02-07 16:09:07,888 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:03.801Z returns 0 results
+2024-02-07 16:09:10,869 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:08.803Z returns 0 results
+2024-02-07 16:09:12,906 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:08.803Z returns 0 results
+2024-02-07 16:09:15,859 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:13.806Z returns 0 results
+2024-02-07 16:09:17,917 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:13.806Z returns 0 results
+2024-02-07 16:09:20,849 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:18.808Z returns 0 results
+2024-02-07 16:09:22,892 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:18.808Z returns 0 results
+2024-02-07 16:09:25,851 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:23.809Z returns 0 results
+2024-02-07 16:09:27,903 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:23.809Z returns 0 results
+2024-02-07 16:09:30,852 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:28.805Z returns 0 results
+2024-02-07 16:09:32,907 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:28.805Z returns 0 results
+2024-02-07 16:09:35,836 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:33.804Z returns 0 results
+2024-02-07 16:09:37,889 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:33.804Z returns 0 results
+2024-02-07 16:09:40,842 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:38.794Z returns 0 results
+2024-02-07 16:09:42,897 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:38.794Z returns 0 results
+2024-02-07 16:09:45,848 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:43.801Z returns 0 results
+2024-02-07 16:09:47,892 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:43.801Z returns 0 results
+2024-02-07 16:09:50,842 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:48.796Z returns 0 results
+2024-02-07 16:09:52,898 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:48.796Z returns 0 results
+2024-02-07 16:09:55,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:53.802Z returns 0 results
+2024-02-07 16:09:57,913 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:53.802Z returns 0 results
+2024-02-07 16:10:00,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:09:58.796Z returns 0 results
+2024-02-07 16:10:02,872 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:09:58.796Z returns 0 results
+2024-02-07 16:10:05,849 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:03.807Z returns 0 results
+2024-02-07 16:10:06,013 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 305 results
+2024-02-07 16:10:07,901 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:03.807Z returns 0 results
+2024-02-07 16:10:10,836 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:08.796Z returns 0 results
+2024-02-07 16:10:12,898 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:08.796Z returns 0 results
+2024-02-07 16:10:15,854 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:13.802Z returns 0 results
+2024-02-07 16:10:17,908 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:13.802Z returns 0 results
+2024-02-07 16:10:20,841 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:18.801Z returns 0 results
+2024-02-07 16:10:22,890 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:18.801Z returns 0 results
+2024-02-07 16:10:25,869 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:23.811Z returns 0 results
+2024-02-07 16:10:27,902 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:23.811Z returns 0 results
+2024-02-07 16:10:30,847 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:28.805Z returns 0 results
+2024-02-07 16:10:32,897 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:28.805Z returns 0 results
+2024-02-07 16:10:35,860 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:33.800Z returns 0 results
+2024-02-07 16:10:37,909 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:33.800Z returns 0 results
+2024-02-07 16:10:40,852 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:38.807Z returns 0 results
+2024-02-07 16:10:42,898 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:38.807Z returns 0 results
+2024-02-07 16:10:45,852 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:43.805Z returns 0 results
+2024-02-07 16:10:47,897 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:43.805Z returns 0 results
+2024-02-07 16:10:50,858 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:48.796Z returns 0 results
+2024-02-07 16:10:52,913 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:48.796Z returns 0 results
+2024-02-07 16:10:55,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:53.803Z returns 0 results
+2024-02-07 16:10:57,905 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:53.803Z returns 0 results
+2024-02-07 16:11:00,837 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:10:58.796Z returns 0 results
+2024-02-07 16:11:02,870 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:10:58.796Z returns 0 results
+2024-02-07 16:11:05,845 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:03.798Z returns 0 results
+2024-02-07 16:11:07,901 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:03.798Z returns 0 results
+2024-02-07 16:11:10,841 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:08.808Z returns 0 results
+2024-02-07 16:11:12,875 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:08.808Z returns 0 results
+2024-02-07 16:11:15,826 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:13.808Z returns 0 results
+2024-02-07 16:11:17,884 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:13.808Z returns 0 results
+2024-02-07 16:11:20,836 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:18.795Z returns 0 results
+2024-02-07 16:11:22,881 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:18.795Z returns 0 results
+2024-02-07 16:11:25,843 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:23.798Z returns 0 results
+2024-02-07 16:11:27,909 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:23.798Z returns 0 results
+2024-02-07 16:11:30,849 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:28.807Z returns 0 results
+2024-02-07 16:11:32,908 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:28.807Z returns 0 results
+2024-02-07 16:11:35,840 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:33.798Z returns 0 results
+2024-02-07 16:11:37,896 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:33.798Z returns 0 results
+2024-02-07 16:11:40,839 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:38.799Z returns 0 results
+2024-02-07 16:11:42,892 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:38.799Z returns 0 results
+2024-02-07 16:11:45,847 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:43.800Z returns 0 results
+2024-02-07 16:11:47,908 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:43.800Z returns 0 results
+2024-02-07 16:11:50,856 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:48.799Z returns 0 results
+2024-02-07 16:11:52,898 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:48.799Z returns 0 results
+2024-02-07 16:11:55,845 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:53.801Z returns 0 results
+2024-02-07 16:11:57,894 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:53.801Z returns 0 results
+2024-02-07 16:12:00,861 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:11:58.809Z returns 0 results
+2024-02-07 16:12:02,906 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:11:58.809Z returns 0 results
+2024-02-07 16:12:05,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:03.808Z returns 0 results
+2024-02-07 16:12:07,881 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:03.808Z returns 0 results
+2024-02-07 16:12:10,827 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:08.809Z returns 0 results
+2024-02-07 16:12:12,879 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:08.809Z returns 0 results
+2024-02-07 16:12:15,854 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:13.798Z returns 0 results
+2024-02-07 16:12:17,909 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:13.798Z returns 0 results
+2024-02-07 16:12:20,841 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:18.796Z returns 0 results
+2024-02-07 16:12:22,885 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:18.796Z returns 0 results
+2024-02-07 16:12:25,860 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:23.801Z returns 0 results
+2024-02-07 16:12:27,922 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:23.801Z returns 0 results
+2024-02-07 16:12:30,834 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:28.799Z returns 0 results
+2024-02-07 16:12:32,886 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:28.799Z returns 0 results
+2024-02-07 16:12:35,833 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:33.796Z returns 0 results
+2024-02-07 16:12:37,873 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:33.796Z returns 0 results
+2024-02-07 16:12:40,858 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:38.801Z returns 0 results
+2024-02-07 16:12:42,901 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:38.801Z returns 0 results
+2024-02-07 16:12:45,851 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:43.806Z returns 0 results
+2024-02-07 16:12:47,908 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:43.806Z returns 0 results
+2024-02-07 16:12:50,851 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:48.809Z returns 0 results
+2024-02-07 16:12:52,898 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:48.809Z returns 0 results
+2024-02-07 16:12:55,836 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:53.794Z returns 0 results
+2024-02-07 16:12:57,877 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:53.794Z returns 0 results
+2024-02-07 16:13:00,870 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:12:58.809Z returns 0 results
+2024-02-07 16:13:02,912 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:12:58.809Z returns 0 results
+2024-02-07 16:13:05,848 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:13:03.801Z returns 0 results
+2024-02-07 16:13:07,913 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:13:03.801Z returns 0 results
+2024-02-07 16:13:10,858 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:13:08.807Z returns 0 results
+2024-02-07 16:13:12,926 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:13:08.807Z returns 0 results
+2024-02-07 16:16:31,042 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 16:16:44,431 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 305 results
+2024-02-07 16:17:02,029 - basicLogger - INFO - Query for Hotel Activity Reservations after 2022-01-01T09:12:33.11Z returns 304 results
+2024-02-07 16:26:25,494 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 16:26:27,854 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 16:26:29,247 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 16:26:34,981 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:26:37,032 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:26:37,722 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:26:51,325 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 308 results
+2024-02-07 16:31:35,162 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of 6e976546-27c9-4942-a239-92e48e7414c4
+2024-02-07 16:31:55,935 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d7d30aab-6164-4feb-b126-7693ac2ae44b
+2024-02-07 16:31:57,866 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:31:55.801Z returns 0 results
+2024-02-07 16:31:59,913 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:31:55.801Z returns 0 results
+2024-02-07 16:32:02,856 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:00.796Z returns 0 results
+2024-02-07 16:32:04,913 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:00.796Z returns 0 results
+2024-02-07 16:32:07,856 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:05.796Z returns 0 results
+2024-02-07 16:32:09,608 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:32:09,911 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:05.796Z returns 0 results
+2024-02-07 16:32:12,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:10.808Z returns 0 results
+2024-02-07 16:32:14,922 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:10.808Z returns 0 results
+2024-02-07 16:32:15,235 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:32:17,841 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:15.801Z returns 0 results
+2024-02-07 16:32:18,173 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:32:19,887 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:15.801Z returns 0 results
+2024-02-07 16:32:22,867 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:20.805Z returns 0 results
+2024-02-07 16:32:24,906 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:20.805Z returns 0 results
+2024-02-07 16:32:27,864 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:25.806Z returns 0 results
+2024-02-07 16:32:29,918 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:25.806Z returns 0 results
+2024-02-07 16:32:32,848 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:30.802Z returns 0 results
+2024-02-07 16:32:34,917 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:30.802Z returns 0 results
+2024-02-07 16:32:37,855 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:35.802Z returns 0 results
+2024-02-07 16:32:39,899 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:35.802Z returns 0 results
+2024-02-07 16:32:42,846 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:40.799Z returns 0 results
+2024-02-07 16:32:44,906 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:40.799Z returns 0 results
+2024-02-07 16:32:47,832 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:45.801Z returns 0 results
+2024-02-07 16:32:49,874 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:45.801Z returns 0 results
+2024-02-07 16:32:52,855 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:50.793Z returns 0 results
+2024-02-07 16:32:54,927 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:50.793Z returns 0 results
+2024-02-07 16:32:57,836 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:32:55.800Z returns 0 results
+2024-02-07 16:32:59,891 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:32:55.800Z returns 0 results
+2024-02-07 16:33:02,844 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:00.805Z returns 0 results
+2024-02-07 16:33:04,884 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:00.805Z returns 0 results
+2024-02-07 16:33:07,842 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:05.801Z returns 0 results
+2024-02-07 16:33:09,898 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:05.801Z returns 0 results
+2024-02-07 16:33:12,838 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:10.795Z returns 0 results
+2024-02-07 16:33:14,898 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:10.795Z returns 0 results
+2024-02-07 16:33:17,851 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:15.795Z returns 0 results
+2024-02-07 16:33:19,895 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:15.795Z returns 0 results
+2024-02-07 16:33:22,856 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:20.798Z returns 0 results
+2024-02-07 16:33:24,913 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:20.798Z returns 0 results
+2024-02-07 16:33:27,832 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:25.797Z returns 0 results
+2024-02-07 16:33:29,888 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:25.797Z returns 0 results
+2024-02-07 16:33:32,834 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:30.803Z returns 0 results
+2024-02-07 16:33:34,880 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:30.803Z returns 0 results
+2024-02-07 16:33:37,857 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:35.794Z returns 0 results
+2024-02-07 16:33:39,916 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:35.794Z returns 0 results
+2024-02-07 16:33:42,860 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:40.801Z returns 0 results
+2024-02-07 16:33:44,904 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:40.801Z returns 0 results
+2024-02-07 16:33:47,834 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:45.802Z returns 0 results
+2024-02-07 16:33:49,902 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:45.802Z returns 0 results
+2024-02-07 16:33:52,851 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:50.805Z returns 0 results
+2024-02-07 16:33:54,903 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:50.805Z returns 0 results
+2024-02-07 16:33:57,860 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:33:55.806Z returns 0 results
+2024-02-07 16:33:59,837 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:33:59,894 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:33:55.806Z returns 0 results
+2024-02-07 16:34:02,859 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:00.801Z returns 0 results
+2024-02-07 16:34:04,920 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:00.801Z returns 0 results
+2024-02-07 16:34:07,842 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:05.803Z returns 0 results
+2024-02-07 16:34:09,901 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:05.803Z returns 0 results
+2024-02-07 16:34:12,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:10.803Z returns 0 results
+2024-02-07 16:34:14,909 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:10.803Z returns 0 results
+2024-02-07 16:34:17,853 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:15.793Z returns 0 results
+2024-02-07 16:34:19,914 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:15.793Z returns 0 results
+2024-02-07 16:34:20,263 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of 82873724-05c6-4269-8401-120327a56149
+2024-02-07 16:34:22,847 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:20.796Z returns 0 results
+2024-02-07 16:34:24,918 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:20.796Z returns 0 results
+2024-02-07 16:34:27,836 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:25.804Z returns 0 results
+2024-02-07 16:34:29,890 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:25.804Z returns 0 results
+2024-02-07 16:34:32,839 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:30.797Z returns 0 results
+2024-02-07 16:34:34,910 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:30.797Z returns 0 results
+2024-02-07 16:34:37,841 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:35.796Z returns 0 results
+2024-02-07 16:34:39,896 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:35.796Z returns 0 results
+2024-02-07 16:34:42,858 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:40.797Z returns 0 results
+2024-02-07 16:34:44,928 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:40.797Z returns 0 results
+2024-02-07 16:34:47,845 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:45.795Z returns 0 results
+2024-02-07 16:34:49,919 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:45.795Z returns 0 results
+2024-02-07 16:34:52,845 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:50.804Z returns 0 results
+2024-02-07 16:34:54,888 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:50.804Z returns 0 results
+2024-02-07 16:34:57,844 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:34:55.803Z returns 0 results
+2024-02-07 16:34:59,901 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:34:55.803Z returns 0 results
+2024-02-07 16:35:02,846 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:00.802Z returns 0 results
+2024-02-07 16:35:04,901 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:00.802Z returns 0 results
+2024-02-07 16:35:07,860 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:05.800Z returns 0 results
+2024-02-07 16:35:09,894 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:05.800Z returns 0 results
+2024-02-07 16:35:12,841 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:10.796Z returns 0 results
+2024-02-07 16:35:14,871 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:10.796Z returns 0 results
+2024-02-07 16:35:17,868 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:15.806Z returns 0 results
+2024-02-07 16:35:19,943 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:15.806Z returns 0 results
+2024-02-07 16:35:22,829 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:20.794Z returns 0 results
+2024-02-07 16:35:24,895 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:20.794Z returns 0 results
+2024-02-07 16:35:27,254 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of a6f6f1ae-19ff-4a00-b2ab-b5cffcebde3d
+2024-02-07 16:35:27,849 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:25.798Z returns 0 results
+2024-02-07 16:35:29,921 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:25.798Z returns 0 results
+2024-02-07 16:35:29,997 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of 1cb02bff-e675-4c2d-a20d-4a978a53fff6
+2024-02-07 16:35:32,585 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of 8dc6b2e6-7981-4396-bc1d-f4b20388ae0a
+2024-02-07 16:35:32,863 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:30.804Z returns 0 results
+2024-02-07 16:35:34,917 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:30.804Z returns 0 results
+2024-02-07 16:35:37,823 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:35.802Z returns 0 results
+2024-02-07 16:35:39,885 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:35.802Z returns 0 results
+2024-02-07 16:35:42,857 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:40.797Z returns 0 results
+2024-02-07 16:35:44,917 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:40.797Z returns 0 results
+2024-02-07 16:35:47,860 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:45.802Z returns 0 results
+2024-02-07 16:35:49,894 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:45.802Z returns 0 results
+2024-02-07 16:35:52,846 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:50.794Z returns 0 results
+2024-02-07 16:35:54,906 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:50.794Z returns 0 results
+2024-02-07 16:35:57,850 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:35:55.793Z returns 0 results
+2024-02-07 16:35:59,902 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:35:55.793Z returns 0 results
+2024-02-07 16:36:02,849 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:36:00.809Z returns 0 results
+2024-02-07 16:36:04,906 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:36:00.809Z returns 0 results
+2024-02-07 16:36:07,837 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:36:05.792Z returns 0 results
+2024-02-07 16:36:09,884 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:36:05.792Z returns 0 results
+2024-02-07 16:38:10,777 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:08.715Z returns 0 results
+2024-02-07 16:38:11,365 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of 6078da1c-e1cf-46e7-99f0-de2ef17d1a88
+2024-02-07 16:38:12,831 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:08.715Z returns 0 results
+2024-02-07 16:38:14,496 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of a968114e-0229-4535-ae7c-ecf8be740781
+2024-02-07 16:38:15,781 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:13.714Z returns 0 results
+2024-02-07 16:38:17,832 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:13.714Z returns 0 results
+2024-02-07 16:38:20,011 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of 4ba8ee92-8960-4538-8282-cfccc6486c4f
+2024-02-07 16:38:20,771 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:18.720Z returns 0 results
+2024-02-07 16:38:22,806 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:18.720Z returns 0 results
+2024-02-07 16:38:25,754 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:23.725Z returns 0 results
+2024-02-07 16:38:27,680 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of e767290e-feb7-454e-a758-9be7e49f9f78
+2024-02-07 16:38:27,817 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:23.725Z returns 0 results
+2024-02-07 16:38:30,770 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:28.722Z returns 0 results
+2024-02-07 16:38:32,814 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:28.722Z returns 0 results
+2024-02-07 16:38:35,764 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:33.715Z returns 0 results
+2024-02-07 16:38:37,826 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:33.715Z returns 0 results
+2024-02-07 16:38:40,762 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:38.711Z returns 0 results
+2024-02-07 16:38:42,821 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:38.711Z returns 0 results
+2024-02-07 16:38:45,752 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:43.710Z returns 0 results
+2024-02-07 16:38:47,807 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:43.710Z returns 0 results
+2024-02-07 16:38:47,954 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:38:50,777 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:48.722Z returns 0 results
+2024-02-07 16:38:51,263 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:38:52,828 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:48.722Z returns 0 results
+2024-02-07 16:38:55,774 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:53.714Z returns 0 results
+2024-02-07 16:38:57,833 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:53.714Z returns 0 results
+2024-02-07 16:38:59,264 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:00,407 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:00,775 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:38:58.714Z returns 0 results
+2024-02-07 16:39:02,837 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:38:58.714Z returns 0 results
+2024-02-07 16:39:05,787 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:39:03.726Z returns 0 results
+2024-02-07 16:39:06,506 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:07,843 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:39:03.726Z returns 0 results
+2024-02-07 16:39:09,256 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:09,953 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:10,570 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:10,770 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:39:08.723Z returns 0 results
+2024-02-07 16:39:12,840 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:39:08.723Z returns 0 results
+2024-02-07 16:39:14,476 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:15,769 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:39:13.724Z returns 0 results
+2024-02-07 16:39:16,267 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:17,828 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:39:13.724Z returns 0 results
+2024-02-07 16:39:20,772 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:39:18.724Z returns 0 results
+2024-02-07 16:39:22,809 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:39:18.724Z returns 0 results
+2024-02-07 16:39:25,764 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:39:23.711Z returns 0 results
+2024-02-07 16:39:27,331 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:27,802 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:39:23.711Z returns 0 results
+2024-02-07 16:39:28,856 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:30,206 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:39:30,758 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:39:28.717Z returns 0 results
+2024-02-07 16:39:32,811 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:39:28.717Z returns 0 results
+2024-02-07 16:39:35,766 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:39:33.712Z returns 0 results
+2024-02-07 16:39:37,831 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:39:33.712Z returns 0 results
+2024-02-07 16:39:40,786 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:39:38.726Z returns 0 results
+2024-02-07 16:39:42,848 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:39:38.726Z returns 0 results
+2024-02-07 16:39:45,764 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:39:43.721Z returns 0 results
+2024-02-07 16:39:47,817 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:39:43.721Z returns 0 results
+2024-02-07 16:40:48,572 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:40:46.524Z returns 0 results
+2024-02-07 16:40:50,625 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:40:46.524Z returns 0 results
+2024-02-07 16:40:53,218 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 335 results
+2024-02-07 16:40:53,560 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:40:51.526Z returns 0 results
+2024-02-07 16:40:55,596 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:40:51.526Z returns 0 results
+2024-02-07 16:40:58,590 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:40:56.532Z returns 0 results
+2024-02-07 16:40:59,427 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 335 results
+2024-02-07 16:41:00,640 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:40:56.532Z returns 0 results
+2024-02-07 16:41:02,505 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 335 results
+2024-02-07 16:41:03,588 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:41:01.529Z returns 0 results
+2024-02-07 16:41:04,757 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 335 results
+2024-02-07 16:41:05,638 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:41:01.529Z returns 0 results
+2024-02-07 16:41:06,841 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 335 results
+2024-02-07 16:41:08,103 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 335 results
+2024-02-07 16:41:08,557 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:41:06.524Z returns 0 results
+2024-02-07 16:41:10,609 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:41:06.524Z returns 0 results
+2024-02-07 16:41:12,279 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 335 results
+2024-02-07 16:41:13,433 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 335 results
+2024-02-07 16:41:13,558 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:41:11.526Z returns 0 results
+2024-02-07 16:41:15,585 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:41:11.526Z returns 0 results
+2024-02-07 16:41:18,546 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:41:16.527Z returns 0 results
+2024-02-07 16:41:20,584 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:41:16.527Z returns 0 results
+2024-02-07 16:43:10,950 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:08.891Z returns 0 results
+2024-02-07 16:43:12,416 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 335 results
+2024-02-07 16:43:13,000 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:08.891Z returns 0 results
+2024-02-07 16:43:15,917 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:13.887Z returns 0 results
+2024-02-07 16:43:17,119 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:43:17,956 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:13.887Z returns 0 results
+2024-02-07 16:43:18,077 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:43:20,911 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:18.886Z returns 0 results
+2024-02-07 16:43:21,489 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:43:22,628 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 16:43:22,956 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:18.886Z returns 0 results
+2024-02-07 16:43:25,956 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:23.897Z returns 0 results
+2024-02-07 16:43:27,984 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:23.897Z returns 0 results
+2024-02-07 16:43:30,946 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:28.899Z returns 0 results
+2024-02-07 16:43:32,979 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:28.899Z returns 0 results
+2024-02-07 16:43:35,927 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:33.886Z returns 0 results
+2024-02-07 16:43:37,959 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:33.886Z returns 0 results
+2024-02-07 16:43:40,939 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:38.900Z returns 0 results
+2024-02-07 16:43:42,981 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:38.900Z returns 0 results
+2024-02-07 16:43:45,936 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:43.901Z returns 0 results
+2024-02-07 16:43:47,986 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:43.901Z returns 0 results
+2024-02-07 16:43:50,942 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:48.904Z returns 0 results
+2024-02-07 16:43:52,974 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:48.904Z returns 0 results
+2024-02-07 16:43:55,943 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:53.901Z returns 0 results
+2024-02-07 16:43:58,005 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:53.901Z returns 0 results
+2024-02-07 16:44:00,939 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:43:58.902Z returns 0 results
+2024-02-07 16:44:02,987 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:43:58.902Z returns 0 results
+2024-02-07 16:44:13,597 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:44:11.553Z returns 0 results
+2024-02-07 16:44:15,641 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:44:11.553Z returns 0 results
+2024-02-07 16:44:18,588 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:44:16.553Z returns 0 results
+2024-02-07 16:44:20,627 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:44:16.553Z returns 0 results
+2024-02-07 16:44:23,588 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:44:21.551Z returns 0 results
+2024-02-07 16:44:25,622 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:44:21.551Z returns 0 results
+2024-02-07 16:48:40,880 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 339 results
+2024-02-07 16:48:45,402 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:48:43.342Z returns 0 results
+2024-02-07 16:48:45,518 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 339 results
+2024-02-07 16:48:47,438 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:48:43.342Z returns 0 results
+2024-02-07 16:48:49,762 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 339 results
+2024-02-07 16:48:50,368 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:48:48.345Z returns 0 results
+2024-02-07 16:48:52,399 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:48:48.345Z returns 0 results
+2024-02-07 16:48:55,376 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:48:53.343Z returns 0 results
+2024-02-07 16:48:57,426 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:48:53.343Z returns 0 results
+2024-02-07 16:49:00,390 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:48:58.333Z returns 0 results
+2024-02-07 16:49:02,431 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:48:58.333Z returns 0 results
+2024-02-07 16:49:05,385 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:03.334Z returns 0 results
+2024-02-07 16:49:07,417 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:03.334Z returns 0 results
+2024-02-07 16:49:10,392 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:08.344Z returns 0 results
+2024-02-07 16:49:12,448 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:08.344Z returns 0 results
+2024-02-07 16:49:15,380 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:13.337Z returns 0 results
+2024-02-07 16:49:17,432 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:13.337Z returns 0 results
+2024-02-07 16:49:20,389 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:18.345Z returns 0 results
+2024-02-07 16:49:22,443 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:18.345Z returns 0 results
+2024-02-07 16:49:25,386 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:23.341Z returns 0 results
+2024-02-07 16:49:27,427 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:23.341Z returns 0 results
+2024-02-07 16:49:30,393 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:28.334Z returns 0 results
+2024-02-07 16:49:32,435 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:28.334Z returns 0 results
+2024-02-07 16:49:35,371 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:33.340Z returns 0 results
+2024-02-07 16:49:37,399 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:33.340Z returns 0 results
+2024-02-07 16:49:40,382 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:38.336Z returns 0 results
+2024-02-07 16:49:42,422 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:38.336Z returns 0 results
+2024-02-07 16:49:45,390 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:43.341Z returns 0 results
+2024-02-07 16:49:47,448 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:43.341Z returns 0 results
+2024-02-07 16:49:50,379 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:48.335Z returns 0 results
+2024-02-07 16:49:52,426 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:48.335Z returns 0 results
+2024-02-07 16:49:55,393 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:53.344Z returns 0 results
+2024-02-07 16:49:57,432 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:53.344Z returns 0 results
+2024-02-07 16:50:00,397 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:49:58.340Z returns 0 results
+2024-02-07 16:50:02,439 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:49:58.340Z returns 0 results
+2024-02-07 16:50:05,393 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:50:03.335Z returns 0 results
+2024-02-07 16:50:07,456 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:50:03.335Z returns 0 results
+2024-02-07 16:50:10,374 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:50:08.337Z returns 0 results
+2024-02-07 16:50:12,426 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:50:08.337Z returns 0 results
+2024-02-07 16:50:15,392 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:50:13.344Z returns 0 results
+2024-02-07 16:50:17,447 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:50:13.344Z returns 0 results
+2024-02-07 16:50:20,377 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:50:18.333Z returns 0 results
+2024-02-07 16:50:22,431 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:50:18.333Z returns 0 results
+2024-02-07 16:50:25,394 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:50:23.337Z returns 0 results
+2024-02-07 16:50:27,422 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:50:23.337Z returns 0 results
+2024-02-07 16:50:30,379 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:50:28.339Z returns 0 results
+2024-02-07 16:50:32,426 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:50:28.339Z returns 0 results
+2024-02-07 16:50:35,380 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:50:33.342Z returns 0 results
+2024-02-07 16:50:37,427 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:50:33.342Z returns 0 results
+2024-02-07 16:59:16,745 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:59:14.676Z returns 0 results
+2024-02-07 16:59:18,796 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:59:14.676Z returns 0 results
+2024-02-07 16:59:21,726 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:59:19.669Z returns 0 results
+2024-02-07 16:59:23,795 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:59:19.669Z returns 0 results
+2024-02-07 16:59:26,716 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:59:24.666Z returns 0 results
+2024-02-07 16:59:28,769 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:59:24.666Z returns 0 results
+2024-02-07 16:59:55,357 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:59:53.288Z returns 0 results
+2024-02-07 16:59:57,407 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:59:53.288Z returns 0 results
+2024-02-07 17:00:00,310 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T16:59:58.282Z returns 0 results
+2024-02-07 17:00:02,348 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T16:59:58.282Z returns 0 results
+2024-02-07 17:00:53,085 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:00:55,135 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:00:58,062 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:01:00,107 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:01:03,066 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:01:05,121 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:01:08,076 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:01:10,136 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:01:13,073 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:01:15,130 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:03:57,019 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:03:59,077 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:04:02,018 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:04:04,074 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:04:06,993 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:04:09,034 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:07:00,490 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:07:02,550 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:07:05,477 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:07:07,541 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:07:10,481 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:07:12,530 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:07:15,492 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:07:17,551 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:21:54,652 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:21:56,700 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:21:59,621 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:22:01,668 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:22:04,628 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:22:06,669 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:24:55,795 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:24:57,854 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:00,788 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:02,813 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:05,782 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:07,815 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:10,781 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:12,819 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:15,800 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:17,832 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:20,781 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:22,830 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:25,767 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:27,798 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:30,781 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:32,839 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:35,801 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:37,837 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:40,789 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:25:42,822 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:26:11,721 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:26:13,756 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:26:16,698 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:26:18,751 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:27:01,670 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:27:03,718 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:27:06,647 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:27:08,691 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:27:11,632 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:27:13,655 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:32:05,441 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:32:07,486 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:00:51.026Z returns 0 results
+2024-02-07 17:32:10,411 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:32:03.372Z returns 0 results
+2024-02-07 17:32:12,466 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:32:03.372Z returns 0 results
+2024-02-07 17:33:22,126 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:32:08.354Z returns 0 results
+2024-02-07 17:33:24,175 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:32:08.354Z returns 0 results
+2024-02-07 17:33:27,127 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:33:20.079Z returns 0 results
+2024-02-07 17:33:29,190 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:33:20.079Z returns 0 results
+2024-02-07 17:33:32,130 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:33:25.081Z returns 0 results
+2024-02-07 17:33:34,177 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:33:25.081Z returns 0 results
+2024-02-07 17:33:37,119 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:33:30.095Z returns 0 results
+2024-02-07 17:33:39,161 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:33:30.095Z returns 0 results
+2024-02-07 17:33:42,119 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:33:35.082Z returns 0 results
+2024-02-07 17:33:44,153 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:33:35.082Z returns 0 results
+2024-02-07 17:33:47,127 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:33:40.083Z returns 0 results
+2024-02-07 17:33:49,171 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:33:40.083Z returns 0 results
+2024-02-07 17:44:41,293 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:33:45.078Z returns 0 results
+2024-02-07 17:44:43,352 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:33:45.078Z returns 0 results
+2024-02-07 17:44:46,275 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:44:39.238Z returns 0 results
+2024-02-07 17:44:48,347 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:44:39.238Z returns 0 results
+2024-02-07 17:44:51,266 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:44:44.224Z returns 0 results
+2024-02-07 17:44:53,333 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:44:44.224Z returns 0 results
+2024-02-07 17:44:56,278 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:44:49.217Z returns 0 results
+2024-02-07 17:44:58,330 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:44:49.217Z returns 0 results
+2024-02-07 17:45:01,273 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:44:54.229Z returns 0 results
+2024-02-07 17:45:03,330 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:44:54.229Z returns 0 results
+2024-02-07 17:45:06,275 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:44:59.229Z returns 0 results
+2024-02-07 17:45:08,313 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:44:59.229Z returns 0 results
+2024-02-07 17:45:11,261 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:45:04.229Z returns 0 results
+2024-02-07 17:45:12,790 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 339 results
+2024-02-07 17:45:13,306 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:45:04.229Z returns 0 results
+2024-02-07 17:45:16,250 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:45:09.217Z returns 0 results
+2024-02-07 17:45:17,400 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 339 results
+2024-02-07 17:45:17,940 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 339 results
+2024-02-07 17:45:18,284 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:45:09.217Z returns 0 results
+2024-02-07 17:45:18,491 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 339 results
+2024-02-07 17:45:19,413 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 339 results
+2024-02-07 17:45:21,273 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:45:14.218Z returns 0 results
+2024-02-07 17:45:23,338 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:45:14.218Z returns 0 results
+2024-02-07 17:45:26,273 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:45:19.220Z returns 0 results
+2024-02-07 17:45:28,347 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:45:19.220Z returns 0 results
+2024-02-07 19:08:13,044 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:08:16,235 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:08:36,524 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of 0e6f6f38-232e-477e-8fdc-455e124cf7d4
+2024-02-07 19:08:43,375 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T17:45:24.221Z returns 0 results
+2024-02-07 19:08:45,427 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T17:45:24.221Z returns 0 results
+2024-02-07 19:08:56,547 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:08:11.137Z returns 3 results
+2024-02-07 19:08:58,589 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:08:11.137Z returns 0 results
+2024-02-07 19:09:00,656 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 342 results
+2024-02-07 19:09:01,529 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:08:54.486Z returns 0 results
+2024-02-07 19:09:03,306 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 342 results
+2024-02-07 19:09:03,556 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:08:54.486Z returns 0 results
+2024-02-07 19:09:06,509 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:08:59.489Z returns 0 results
+2024-02-07 19:09:07,458 - basicLogger - INFO - Query for Hotel Room Reservations after 2022-01-01T09:12:33.11Z returns 342 results
+2024-02-07 19:09:08,557 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:08:59.489Z returns 0 results
+2024-02-07 19:09:11,510 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:09:04.474Z returns 0 results
+2024-02-07 19:09:13,572 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:09:04.474Z returns 0 results
+2024-02-07 19:09:16,536 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:09:09.482Z returns 0 results
+2024-02-07 19:09:18,576 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:09:09.482Z returns 0 results
+2024-02-07 19:09:21,501 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:09:14.487Z returns 0 results
+2024-02-07 19:09:23,533 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:09:14.487Z returns 0 results
+2024-02-07 19:09:26,515 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:09:19.474Z returns 0 results
+2024-02-07 19:09:28,544 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:09:19.474Z returns 0 results
+2024-02-07 19:21:33,998 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:21:42,984 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:21:43,847 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:21:44,725 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:21:45,325 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:21:45,948 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:21:46,474 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:21:46,993 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:09:24.482Z returns 4 results
+2024-02-07 19:21:49,026 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:09:24.482Z returns 0 results
+2024-02-07 19:21:51,978 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:21:44.938Z returns 3 results
+2024-02-07 19:21:54,020 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:21:44.938Z returns 0 results
+2024-02-07 19:21:56,994 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:21:49.943Z returns 0 results
+2024-02-07 19:21:59,030 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:21:49.943Z returns 0 results
+2024-02-07 19:22:01,992 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:21:54.936Z returns 0 results
+2024-02-07 19:22:04,038 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:21:54.936Z returns 0 results
+2024-02-07 19:22:06,976 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:21:59.939Z returns 0 results
+2024-02-07 19:22:09,031 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:21:59.939Z returns 0 results
+2024-02-07 19:22:11,993 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:22:04.936Z returns 0 results
+2024-02-07 19:22:14,049 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:22:04.936Z returns 0 results
+2024-02-07 19:22:16,976 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:22:09.946Z returns 0 results
+2024-02-07 19:22:19,020 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:22:09.946Z returns 0 results
+2024-02-07 19:22:21,994 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:22:14.932Z returns 0 results
+2024-02-07 19:22:24,046 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:22:14.932Z returns 0 results
+2024-02-07 19:22:26,985 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:22:19.936Z returns 0 results
+2024-02-07 19:22:29,031 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:22:19.936Z returns 0 results
+2024-02-07 19:22:31,975 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:22:24.932Z returns 0 results
+2024-02-07 19:22:34,026 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:22:24.932Z returns 0 results
+2024-02-07 19:22:36,982 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:22:29.940Z returns 0 results
+2024-02-07 19:22:39,022 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:22:29.940Z returns 0 results
+2024-02-07 19:22:41,959 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:22:34.938Z returns 0 results
+2024-02-07 19:22:44,026 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:22:34.938Z returns 0 results
+2024-02-07 19:24:18,359 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:24:18,588 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:24:19,046 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:24:19,524 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:24:19,926 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:24:20,328 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 19:24:24,305 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:22:39.933Z returns 6 results
+2024-02-07 19:24:26,350 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:22:39.933Z returns 0 results
+2024-02-07 19:24:29,287 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:24:22.269Z returns 0 results
+2024-02-07 19:24:31,348 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:24:22.269Z returns 0 results
+2024-02-07 19:24:34,283 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:24:27.247Z returns 0 results
+2024-02-07 19:24:36,333 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:24:27.247Z returns 0 results
+2024-02-07 19:24:39,289 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:24:32.250Z returns 0 results
+2024-02-07 19:24:41,330 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:24:32.250Z returns 0 results
+2024-02-07 19:24:44,270 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:24:37.250Z returns 0 results
+2024-02-07 19:24:46,328 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:24:37.250Z returns 0 results
+2024-02-07 19:24:49,302 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:24:42.250Z returns 0 results
+2024-02-07 19:24:51,363 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:24:42.250Z returns 0 results
+2024-02-07 19:24:54,281 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:24:47.260Z returns 0 results
+2024-02-07 19:24:56,340 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:24:47.260Z returns 0 results
+2024-02-07 19:24:59,301 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:24:52.249Z returns 0 results
+2024-02-07 19:25:01,358 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:24:52.249Z returns 0 results
+2024-02-07 19:25:04,277 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:24:57.256Z returns 0 results
+2024-02-07 19:25:06,313 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:24:57.256Z returns 0 results
+2024-02-07 19:25:09,306 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:02.247Z returns 0 results
+2024-02-07 19:25:11,349 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:02.247Z returns 0 results
+2024-02-07 19:25:14,295 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:07.247Z returns 0 results
+2024-02-07 19:25:16,347 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:07.247Z returns 0 results
+2024-02-07 19:25:19,290 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:12.255Z returns 0 results
+2024-02-07 19:25:21,325 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:12.255Z returns 0 results
+2024-02-07 19:25:24,309 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:17.250Z returns 0 results
+2024-02-07 19:25:26,367 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:17.250Z returns 0 results
+2024-02-07 19:25:29,316 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:22.248Z returns 0 results
+2024-02-07 19:25:31,357 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:22.248Z returns 0 results
+2024-02-07 19:25:34,291 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:27.256Z returns 0 results
+2024-02-07 19:25:36,344 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:27.256Z returns 0 results
+2024-02-07 19:25:39,319 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:32.247Z returns 0 results
+2024-02-07 19:25:41,351 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:32.247Z returns 0 results
+2024-02-07 19:25:44,308 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:37.258Z returns 0 results
+2024-02-07 19:25:46,361 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:37.258Z returns 0 results
+2024-02-07 19:25:49,294 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:42.251Z returns 0 results
+2024-02-07 19:25:51,329 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:42.251Z returns 0 results
+2024-02-07 19:25:54,313 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:47.251Z returns 0 results
+2024-02-07 19:25:56,366 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:47.251Z returns 0 results
+2024-02-07 19:25:59,311 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:52.260Z returns 0 results
+2024-02-07 19:26:01,351 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:52.260Z returns 0 results
+2024-02-07 19:26:29,089 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:25:57.251Z returns 0 results
+2024-02-07 19:26:30,366 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:26:31,009 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:26:31,126 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:25:57.251Z returns 0 results
+2024-02-07 19:26:31,675 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:26:32,240 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:26:32,725 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:26:33,123 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:26:34,096 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:26:27.047Z returns 0 results
+2024-02-07 19:26:36,155 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:26:27.047Z returns 3 results
+2024-02-07 19:26:39,108 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:26:32.042Z returns 0 results
+2024-02-07 19:26:41,169 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:26:32.042Z returns 3 results
+2024-02-07 19:26:44,103 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:26:37.050Z returns 0 results
+2024-02-07 19:26:46,172 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:26:37.050Z returns 0 results
+2024-02-07 19:26:49,102 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:26:42.048Z returns 0 results
+2024-02-07 19:26:51,154 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:26:42.048Z returns 0 results
+2024-02-07 19:26:54,122 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:26:47.044Z returns 0 results
+2024-02-07 19:26:56,164 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:26:47.044Z returns 0 results
+2024-02-07 19:26:59,108 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:26:52.074Z returns 0 results
+2024-02-07 19:27:01,170 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:26:52.074Z returns 0 results
+2024-02-07 19:27:04,100 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:26:57.049Z returns 0 results
+2024-02-07 19:27:06,156 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:26:57.049Z returns 0 results
+2024-02-07 19:28:14,596 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:28:17,591 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:27:02.042Z returns 0 results
+2024-02-07 19:28:19,644 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:27:02.042Z returns 1 results
+2024-02-07 19:28:22,597 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:28:15.527Z returns 0 results
+2024-02-07 19:28:24,655 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:28:15.527Z returns 0 results
+2024-02-07 19:28:27,570 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:28:20.528Z returns 0 results
+2024-02-07 19:28:29,639 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:28:20.528Z returns 0 results
+2024-02-07 19:28:32,553 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:28:25.525Z returns 0 results
+2024-02-07 19:28:34,595 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:28:25.525Z returns 0 results
+2024-02-07 19:28:37,566 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:28:30.513Z returns 0 results
+2024-02-07 19:28:38,234 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:28:38,672 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:28:39,100 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:28:39,613 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:28:30.513Z returns 0 results
+2024-02-07 19:28:42,564 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:28:35.519Z returns 0 results
+2024-02-07 19:28:44,601 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:28:35.519Z returns 3 results
+2024-02-07 19:28:47,583 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:28:40.513Z returns 0 results
+2024-02-07 19:28:49,643 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:28:40.513Z returns 0 results
+2024-02-07 19:28:52,587 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:28:45.526Z returns 0 results
+2024-02-07 19:28:54,651 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:28:45.526Z returns 0 results
+2024-02-07 19:29:22,508 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:29:23,282 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:29:23,901 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:29:24,433 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:29:24,854 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:29:25,295 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:29:27,236 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:28:50.527Z returns 0 results
+2024-02-07 19:29:29,300 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:28:50.527Z returns 5 results
+2024-02-07 19:29:32,226 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:29:25.192Z returns 0 results
+2024-02-07 19:29:34,297 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:29:25.192Z returns 1 results
+2024-02-07 19:33:48,754 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:33:49,213 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:33:49,913 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:33:50,477 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:33:50,969 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:33:54,093 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:29:30.182Z returns 0 results
+2024-02-07 19:33:56,153 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:29:30.182Z returns 5 results
+2024-02-07 19:33:59,070 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:33:52.034Z returns 0 results
+2024-02-07 19:34:01,138 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:33:52.034Z returns 0 results
+2024-02-07 19:34:04,067 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:33:57.027Z returns 0 results
+2024-02-07 19:34:06,121 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:33:57.027Z returns 0 results
+2024-02-07 19:34:09,074 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:02.036Z returns 0 results
+2024-02-07 19:34:11,118 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:02.036Z returns 0 results
+2024-02-07 19:34:14,105 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:07.030Z returns 0 results
+2024-02-07 19:34:16,171 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:07.030Z returns 0 results
+2024-02-07 19:34:19,096 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:12.033Z returns 0 results
+2024-02-07 19:34:19,454 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:34:19,818 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:34:20,157 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:34:21,150 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:12.033Z returns 0 results
+2024-02-07 19:34:24,094 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:17.037Z returns 0 results
+2024-02-07 19:34:26,145 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:17.037Z returns 3 results
+2024-02-07 19:34:29,089 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:22.032Z returns 0 results
+2024-02-07 19:34:31,155 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:22.032Z returns 0 results
+2024-02-07 19:34:34,085 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:27.037Z returns 0 results
+2024-02-07 19:34:36,143 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:27.037Z returns 0 results
+2024-02-07 19:34:39,054 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:32.035Z returns 0 results
+2024-02-07 19:34:41,122 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:32.035Z returns 0 results
+2024-02-07 19:34:44,084 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:37.027Z returns 0 results
+2024-02-07 19:34:46,129 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:37.027Z returns 0 results
+2024-02-07 19:34:47,606 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:34:48,167 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:34:48,859 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:34:49,066 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:42.025Z returns 0 results
+2024-02-07 19:34:51,123 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:42.025Z returns 0 results
+2024-02-07 19:34:54,072 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:47.028Z returns 0 results
+2024-02-07 19:34:56,131 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:47.028Z returns 3 results
+2024-02-07 19:34:59,094 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:52.038Z returns 0 results
+2024-02-07 19:35:01,137 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:52.038Z returns 0 results
+2024-02-07 19:35:04,069 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:34:57.026Z returns 0 results
+2024-02-07 19:35:06,120 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:34:57.026Z returns 0 results
+2024-02-07 19:37:11,213 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:37:11,345 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:37:11,781 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:37:12,282 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:37:12,680 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:37:17,288 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:35:02.027Z returns 0 results
+2024-02-07 19:37:19,335 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:35:02.027Z returns 5 results
+2024-02-07 19:37:22,285 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:35:02.027Z returns 0 results
+2024-02-07 19:37:24,348 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:35:02.027Z returns 5 results
+2024-02-07 19:37:27,254 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:35:02.027Z returns 0 results
+2024-02-07 19:37:29,285 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:35:02.027Z returns 5 results
+2024-02-07 19:37:32,273 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:35:02.027Z returns 0 results
+2024-02-07 19:37:34,312 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:35:02.027Z returns 5 results
+2024-02-07 19:37:37,274 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:35:02.027Z returns 0 results
+2024-02-07 19:37:39,332 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:35:02.027Z returns 5 results
+2024-02-07 19:37:42,300 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:35:02.027Z returns 0 results
+2024-02-07 19:37:44,364 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:35:02.027Z returns 5 results
+2024-02-07 19:38:31,473 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:35:02.027Z returns 0 results
+2024-02-07 19:38:33,523 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:35:02.027Z returns 5 results
+2024-02-07 19:38:36,454 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:38:29.421Z returns 0 results
+2024-02-07 19:38:37,302 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:38:37,350 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:38:37,852 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:38:38,478 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:38:38,504 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:38:29.421Z returns 0 results
+2024-02-07 19:38:38,970 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:38:39,363 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:38:41,454 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:38:34.419Z returns 0 results
+2024-02-07 19:38:43,485 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:38:34.419Z returns 6 results
+2024-02-07 19:38:46,474 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:38:39.418Z returns 0 results
+2024-02-07 19:38:48,544 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:38:39.418Z returns 0 results
+2024-02-07 19:38:51,482 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:38:44.427Z returns 0 results
+2024-02-07 19:38:53,537 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:38:44.427Z returns 0 results
+2024-02-07 19:38:56,474 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:38:49.428Z returns 0 results
+2024-02-07 19:38:58,517 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:38:49.428Z returns 0 results
+2024-02-07 19:39:01,476 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:38:54.417Z returns 0 results
+2024-02-07 19:39:03,533 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:38:54.417Z returns 0 results
+2024-02-07 19:39:06,465 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:38:59.417Z returns 0 results
+2024-02-07 19:39:08,536 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:38:59.417Z returns 0 results
+2024-02-07 19:39:11,453 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:39:04.419Z returns 0 results
+2024-02-07 19:39:13,499 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:39:04.419Z returns 0 results
+2024-02-07 19:40:06,520 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:40:07,160 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:40:07,872 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:40:08,393 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:40:08,886 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 19:40:12,553 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:39:09.422Z returns 0 results
+2024-02-07 19:40:14,614 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:39:09.422Z returns 5 results
+2024-02-07 19:40:17,527 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:40:10.489Z returns 0 results
+2024-02-07 19:40:19,566 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:40:10.489Z returns 0 results
+2024-02-07 19:40:22,543 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:40:15.477Z returns 0 results
+2024-02-07 19:40:24,574 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:40:15.477Z returns 0 results
+2024-02-07 20:20:23,596 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:40:20.482Z returns 0 results
+2024-02-07 20:20:25,640 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:40:20.482Z returns 0 results
+2024-02-07 20:20:28,177 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 20:20:28,603 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:40:20.482Z returns 0 results
+2024-02-07 20:20:28,891 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 20:20:30,025 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 20:20:30,465 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 20:20:30,668 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:40:20.482Z returns 0 results
+2024-02-07 20:20:30,855 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 20:20:33,594 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:40:20.482Z returns 5 results
+2024-02-07 20:20:35,642 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:40:20.482Z returns 0 results
+2024-02-07 20:20:38,567 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:40:20.482Z returns 5 results
+2024-02-07 20:20:40,617 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:40:20.482Z returns 0 results
+2024-02-07 20:20:43,583 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:40:20.482Z returns 5 results
+2024-02-07 20:20:45,606 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:40:20.482Z returns 0 results
+2024-02-07 20:31:02,847 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:31:03,424 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:31:04,210 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:31:07,739 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T19:40:20.482Z returns 5 results
+2024-02-07 20:31:09,790 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T19:40:20.482Z returns 3 results
+2024-02-07 20:31:12,727 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:31:05.695Z returns 0 results
+2024-02-07 20:31:14,782 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:31:05.695Z returns 0 results
+2024-02-07 20:33:00,734 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:33:04,188 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:31:10.699Z returns 0 results
+2024-02-07 20:33:06,222 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:31:10.699Z returns 1 results
+2024-02-07 20:33:09,172 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:02.159Z returns 0 results
+2024-02-07 20:33:11,223 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:02.159Z returns 0 results
+2024-02-07 20:33:14,188 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:07.140Z returns 0 results
+2024-02-07 20:33:16,216 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:07.140Z returns 0 results
+2024-02-07 20:40:34,677 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:40:35,397 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:40:36,717 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:40:39,664 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:40:41,701 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 1 results
+2024-02-07 20:40:44,672 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:40:46,698 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 1 results
+2024-02-07 20:41:30,597 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:41:33,451 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:41:35,495 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 2 results
+2024-02-07 20:41:38,445 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:41:40,500 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 2 results
+2024-02-07 20:43:17,401 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:43:17,602 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:43:19,446 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 2 results
+2024-02-07 20:43:22,392 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:43:24,432 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 3 results
+2024-02-07 20:43:27,375 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:43:29,433 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 3 results
+2024-02-07 20:44:27,275 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:44:29,057 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:44:29,308 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 3 results
+2024-02-07 20:44:32,236 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:44:34,280 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 4 results
+2024-02-07 20:44:37,267 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:44:39,317 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 4 results
+2024-02-07 20:44:42,272 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:44:44,321 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 4 results
+2024-02-07 20:46:11,334 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:46:14,930 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:46:16,956 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 5 results
+2024-02-07 20:46:19,930 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:46:21,995 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 5 results
+2024-02-07 20:46:52,205 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:46:55,502 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:46:57,548 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 6 results
+2024-02-07 20:47:00,502 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:47:02,546 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 6 results
+2024-02-07 20:48:26,475 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:48:28,047 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:48:30,090 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 6 results
+2024-02-07 20:48:33,042 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:48:35,076 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 7 results
+2024-02-07 20:50:26,014 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 20:50:26,804 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 0 results
+2024-02-07 20:50:28,842 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 7 results
+2024-02-07 20:50:31,802 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 1 results
+2024-02-07 20:50:33,849 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 7 results
+2024-02-07 20:50:36,778 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 1 results
+2024-02-07 20:50:37,767 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 20:50:38,815 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 7 results
+2024-02-07 20:50:41,800 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:33:12.139Z returns 2 results
+2024-02-07 20:50:43,844 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:33:12.139Z returns 7 results
+2024-02-07 20:50:46,789 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 0 results
+2024-02-07 20:50:48,839 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 0 results
+2024-02-07 20:50:51,793 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 0 results
+2024-02-07 20:50:53,095 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 20:50:53,827 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 0 results
+2024-02-07 20:50:56,797 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:50:58,843 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 0 results
+2024-02-07 20:51:01,802 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:03,849 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 0 results
+2024-02-07 20:51:06,796 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:08,399 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:51:08,827 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 0 results
+2024-02-07 20:51:11,779 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:13,823 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:16,775 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:18,851 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:21,796 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:23,851 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:26,774 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:28,818 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:31,791 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:33,815 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:36,778 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:51:38,823 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:53:46,082 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:53:46,809 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:53:48,857 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:53:51,788 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:53:53,827 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 2 results
+2024-02-07 20:53:56,801 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:53:58,834 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 2 results
+2024-02-07 20:54:01,799 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:54:03,849 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 2 results
+2024-02-07 20:54:06,773 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:54:08,797 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 2 results
+2024-02-07 20:54:11,795 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:54:13,850 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 2 results
+2024-02-07 20:55:16,768 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:55:20,642 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:50:39.751Z returns 1 results
+2024-02-07 20:55:22,708 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:50:39.751Z returns 3 results
+2024-02-07 20:55:25,625 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:55:18.587Z returns 0 results
+2024-02-07 20:55:27,688 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:55:18.587Z returns 0 results
+2024-02-07 20:55:30,616 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:55:23.580Z returns 0 results
+2024-02-07 20:55:32,656 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:55:23.580Z returns 0 results
+2024-02-07 20:55:35,645 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:55:28.577Z returns 0 results
+2024-02-07 20:55:37,685 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:55:28.577Z returns 0 results
+2024-02-07 20:55:40,598 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:55:33.576Z returns 0 results
+2024-02-07 20:55:42,637 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:55:33.576Z returns 0 results
+2024-02-07 20:55:45,618 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:55:38.568Z returns 0 results
+2024-02-07 20:55:47,673 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:55:38.568Z returns 0 results
+2024-02-07 20:58:12,060 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 20:58:15,538 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:55:43.575Z returns 1 results
+2024-02-07 20:58:17,580 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:55:43.575Z returns 0 results
+2024-02-07 20:58:20,537 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:58:13.493Z returns 0 results
+2024-02-07 20:58:22,605 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:58:13.493Z returns 0 results
+2024-02-07 20:59:27,436 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:59:27,993 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:58:18.479Z returns 0 results
+2024-02-07 20:59:28,609 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:59:29,918 - basicLogger - DEBUG - Stored event Hotel Activity Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-07 20:59:30,035 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:58:18.479Z returns 0 results
+2024-02-07 20:59:32,981 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:59:25.931Z returns 0 results
+2024-02-07 20:59:35,057 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:59:25.931Z returns 3 results
+2024-02-07 20:59:37,980 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:59:30.920Z returns 0 results
+2024-02-07 20:59:40,045 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:59:30.920Z returns 0 results
+2024-02-07 20:59:42,978 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:59:35.923Z returns 0 results
+2024-02-07 20:59:45,030 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:59:35.923Z returns 0 results
+2024-02-07 20:59:47,979 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:59:40.917Z returns 0 results
+2024-02-07 20:59:50,034 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:59:40.917Z returns 0 results
+2024-02-07 20:59:52,971 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:59:45.930Z returns 0 results
+2024-02-07 20:59:55,028 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:59:45.930Z returns 0 results
+2024-02-07 20:59:57,974 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:59:50.915Z returns 0 results
+2024-02-07 21:00:00,024 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:59:50.915Z returns 0 results
+2024-02-07 21:00:02,975 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T20:59:55.930Z returns 0 results
+2024-02-07 21:00:05,021 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T20:59:55.930Z returns 0 results
+2024-02-07 21:00:05,705 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 21:00:07,967 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:00:00.926Z returns 1 results
+2024-02-07 21:00:10,002 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:00:00.926Z returns 0 results
+2024-02-07 21:00:12,973 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:00:05.924Z returns 0 results
+2024-02-07 21:00:15,023 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:00:05.924Z returns 0 results
+2024-02-07 21:01:17,879 - basicLogger - DEBUG - Stored event Hotel Room Booking request with a trace id of d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-07 21:01:22,546 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:00:10.930Z returns 1 results
+2024-02-07 21:01:24,599 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:00:10.930Z returns 0 results
+2024-02-07 21:01:27,517 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:01:20.498Z returns 0 results
+2024-02-07 21:01:29,573 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:01:20.498Z returns 0 results
+2024-02-07 21:01:32,530 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:01:25.485Z returns 0 results
+2024-02-07 21:01:34,594 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:01:25.485Z returns 0 results
+2024-02-07 21:02:32,004 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:01:30.489Z returns 0 results
+2024-02-07 21:02:34,051 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:01:30.489Z returns 0 results
+2024-02-07 21:02:36,954 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:02:29.939Z returns 0 results
+2024-02-07 21:02:39,000 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:02:29.939Z returns 0 results
+2024-02-07 21:02:41,955 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:02:34.920Z returns 0 results
+2024-02-07 21:02:44,010 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:02:34.920Z returns 0 results
+2024-02-07 21:02:46,987 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:02:39.919Z returns 0 results
+2024-02-07 21:02:49,047 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:02:39.919Z returns 0 results
+2024-02-07 21:02:51,980 - basicLogger - INFO - Query for Hotel Room Reservations after 2024-02-07T21:02:44.929Z returns 0 results
+2024-02-07 21:02:54,026 - basicLogger - INFO - Query for Hotel Activity Reservations after 2024-02-07T21:02:44.929Z returns 0 results

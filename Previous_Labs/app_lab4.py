@@ -2,7 +2,6 @@ import connexion
 from connexion import NoContent 
 
 from sqlalchemy import create_engine
-from sqlalchemy import and_
 from sqlalchemy.orm import sessionmaker
 from base import Base
 from hotel_room import HotelRoom
@@ -11,7 +10,6 @@ from hotel_activity import HotelActivity
 import yaml 
 import logging
 import logging.config
-import datetime
 
 with open('app_conf.yml', 'r') as f: 
     app_config = yaml.safe_load(f.read())
@@ -74,56 +72,6 @@ def book_hotel_activity(body):
     logger.debug("Stored event Hotel Activity Booking request with a trace id of %s", body["trace_id"])
 
     return NoContent, 201
-
-def get_hotel_room(start_timestamp, end_timestamp):
-    """ Gets new hotel room reservations between the start and end timestamps """
-    
-    # print("Something")
-
-    session = DB_SESSION() 
-
-    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%S.%fZ")
-    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%S.%fZ")
-    # print(start_timestamp_datetime)
-    # print(end_timestamp_datetime)
-    results = session.query(HotelRoom).filter(and_(HotelRoom.date_created >= start_timestamp_datetime, HotelRoom.date_created < end_timestamp_datetime))
-    # print("After query")
-    results_list = []
-
-    # print(results)
-
-    for reservation in results:
-        # print(reservation.to_dict())      
-        results_list.append(reservation.to_dict())
-
-    logger.info("Query for Hotel Room Reservations after %s returns %d results" % 
-                (start_timestamp, len(results_list)))
-
-    session.close()
-
-    return results_list, 200
-
-def get_hotel_activity(start_timestamp, end_timestamp):
-    """ Gets new hotel activity reservations between the start and end timestamps """
-    
-    print("Something")
-
-    session = DB_SESSION() 
-
-    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%S.%fZ")
-    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%S.%fZ")
-    results = session.query(HotelActivity).filter(and_(HotelActivity.date_created >= start_timestamp_datetime, HotelActivity.date_created < end_timestamp_datetime))
-    results_list = []
-
-    for reservation in results:
-        results_list.append(reservation.to_dict())
-
-    logger.info("Query for Hotel Activity Reservations after %s returns %d results" % 
-                (start_timestamp, len(results_list)))
-
-    session.close()
-
-    return results_list, 200
 
 app = connexion.FlaskApp(__name__, specification_dir="")
 app.add_api("openapi.yaml", strict_validation=True, validate_responses=True) 
