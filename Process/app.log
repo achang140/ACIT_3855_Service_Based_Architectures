@@ -10966,3 +10966,910 @@ Num Hotel Activity Reservations: 1
 Max Hotel Activity People: 3
 Last Updated: 2024-02-08T16:15:38.968Z
 2024-02-08 16:15:43,062 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:07,332 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:11,424 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:11,431 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:07.333Z
+2024-02-08 16:21:11,432 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:12,330 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:16,368 - basicLogger - INFO - Request Started
+2024-02-08 16:21:16,368 - basicLogger - DEBUG - {'num_hotel_room_reservations': 2, 'max_hotel_room_ppl': 2, 'num_hotel_activity_reservations': 1, 'max_hotel_activity_ppl': 3}
+2024-02-08 16:21:16,368 - basicLogger - INFO - Request Completed!
+2024-02-08 16:21:16,419 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:16,431 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:12.332Z
+2024-02-08 16:21:16,432 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:17,330 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:21,431 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:21,443 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:17.332Z
+2024-02-08 16:21:21,445 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:22,327 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:26,006 - basicLogger - INFO - Request Started
+2024-02-08 16:21:26,008 - basicLogger - DEBUG - {'num_hotel_room_reservations': 2, 'max_hotel_room_ppl': 2, 'num_hotel_activity_reservations': 1, 'max_hotel_activity_ppl': 3}
+2024-02-08 16:21:26,008 - basicLogger - INFO - Request Completed!
+2024-02-08 16:21:26,414 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:26,420 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:22.327Z
+2024-02-08 16:21:26,422 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:27,332 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:31,421 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:31,427 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:27.337Z
+2024-02-08 16:21:31,428 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:32,319 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:36,408 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:36,414 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:32.319Z
+2024-02-08 16:21:36,415 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:37,317 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:41,404 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:41,416 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:37.317Z
+2024-02-08 16:21:41,417 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:42,317 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:46,408 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:46,414 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:42.318Z
+2024-02-08 16:21:46,415 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:47,318 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:51,397 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:51,411 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:47.318Z
+2024-02-08 16:21:51,414 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:52,317 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:21:56,387 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:21:56,399 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:52.320Z
+2024-02-08 16:21:56,399 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:21:57,318 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:22:01,393 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:22:01,398 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 2 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:21:57.321Z
+2024-02-08 16:22:01,402 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:25:22,260 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:25:26,417 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:25:26,417 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:25:22.274Z
+2024-02-08 16:25:26,417 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:25:27,242 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:25:31,313 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:25:31,313 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:25:27.242Z
+2024-02-08 16:25:31,313 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:25:32,246 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:25:36,311 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:25:36,315 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:25:32.246Z
+2024-02-08 16:25:36,315 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:25:37,244 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:25:41,301 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:25:41,301 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:25:37.244Z
+2024-02-08 16:25:41,301 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:25:42,245 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:25:46,290 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:25:46,306 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:25:42.245Z
+2024-02-08 16:25:46,307 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:25:47,250 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:25:51,334 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:25:51,337 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:25:47.254Z
+2024-02-08 16:25:51,339 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:25:52,250 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:25:56,299 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:25:56,316 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:25:52.254Z
+2024-02-08 16:25:56,317 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:25:57,247 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:01,287 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:01,306 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:25:57.247Z
+2024-02-08 16:26:01,308 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:02,245 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:06,315 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:06,327 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:02.245Z
+2024-02-08 16:26:06,328 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:07,243 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:11,302 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:11,317 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:07.245Z
+2024-02-08 16:26:11,318 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:12,248 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:16,326 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:16,337 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:12.250Z
+2024-02-08 16:26:16,338 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:17,254 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:21,321 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:21,324 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:17.256Z
+2024-02-08 16:26:21,324 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:22,256 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:26,343 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:26,354 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:22.260Z
+2024-02-08 16:26:26,355 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:27,250 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:31,313 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:31,329 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:27.254Z
+2024-02-08 16:26:31,329 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:32,245 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:36,317 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:36,329 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:32.245Z
+2024-02-08 16:26:36,330 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:37,246 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:41,325 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:41,331 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:37.246Z
+2024-02-08 16:26:41,331 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:42,247 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:46,337 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:46,337 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:42.248Z
+2024-02-08 16:26:46,349 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:47,251 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:51,331 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:51,337 - basicLogger - DEBUG - Num Hotel Room Reservations: 0 
+Max Hotel Room People: 0 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:47.252Z
+2024-02-08 16:26:51,338 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:52,250 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:26:56,337 - basicLogger - INFO - Received 1 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:26:56,342 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: 0d2b4e75-2b5c-4e4e-be8e-bbddbe2ade03
+2024-02-08 16:26:56,344 - basicLogger - DEBUG - Num Hotel Room Reservations: 1 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:52.252Z
+2024-02-08 16:26:56,345 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:26:57,253 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:01,330 - basicLogger - INFO - Received 1 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:27:01,336 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: 58fdd3a1-37dc-4e45-95a5-8e932d10b7b2
+2024-02-08 16:27:01,337 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:26:57.253Z
+2024-02-08 16:27:01,338 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:02,254 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:06,311 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:27:06,331 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:27:02.257Z
+2024-02-08 16:27:06,334 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:07,254 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:11,336 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:27:11,350 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:27:07.254Z
+2024-02-08 16:27:11,353 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:12,252 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:16,319 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:27:16,330 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 0 
+Max Hotel Activity People: 0
+Last Updated: 2024-02-08T16:27:12.253Z
+2024-02-08 16:27:16,331 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:17,256 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:21,316 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 1 Hotel Activity Reservation events
+2024-02-08 16:27:21,335 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: 1512a406-adf2-4d6f-bffa-8fbdc1b0e31e
+2024-02-08 16:27:21,336 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:27:17.256Z
+2024-02-08 16:27:21,336 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:22,246 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:26,319 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:27:26,336 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:27:22.246Z
+2024-02-08 16:27:26,336 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:27,252 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:31,310 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:27:31,325 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 1 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:27:27.252Z
+2024-02-08 16:27:31,326 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:32,252 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:36,312 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 2 Hotel Activity Reservation events
+2024-02-08 16:27:36,317 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: 31742169-f719-4f15-b136-5f9bd6f52b4b, ec234a0f-c766-4df9-adca-30bab3402a83
+2024-02-08 16:27:36,319 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 3 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:27:32.252Z
+2024-02-08 16:27:36,320 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:37,255 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:41,352 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 1 Hotel Activity Reservation events
+2024-02-08 16:27:41,352 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: ddaa6f36-73cf-4e13-a753-4272ab6e5560
+2024-02-08 16:27:41,352 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:27:37.255Z
+2024-02-08 16:27:41,352 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:42,248 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:46,316 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:27:46,319 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:27:42.248Z
+2024-02-08 16:27:46,319 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:47,250 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:51,365 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:27:51,371 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:27:47.250Z
+2024-02-08 16:27:51,372 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:52,242 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:27:56,330 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:27:56,346 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:27:52.246Z
+2024-02-08 16:27:56,346 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:27:57,245 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:01,328 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:01,331 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:27:57.245Z
+2024-02-08 16:28:01,332 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:02,252 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:06,344 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:06,350 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:02.253Z
+2024-02-08 16:28:06,351 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:07,256 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:11,324 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:11,339 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:07.256Z
+2024-02-08 16:28:11,339 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:12,248 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:16,329 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:16,335 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:12.248Z
+2024-02-08 16:28:16,336 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:17,252 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:21,388 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:21,402 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:17.255Z
+2024-02-08 16:28:21,403 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:22,254 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:26,328 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:26,331 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:22.254Z
+2024-02-08 16:28:26,331 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:27,255 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:31,341 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:31,344 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:27.257Z
+2024-02-08 16:28:31,345 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:32,256 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:36,322 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:36,325 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:32.258Z
+2024-02-08 16:28:36,326 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:37,253 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:41,332 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:41,346 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:37.255Z
+2024-02-08 16:28:41,349 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:42,255 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:46,367 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:46,373 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:42.256Z
+2024-02-08 16:28:46,375 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:47,241 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:51,323 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:51,333 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:47.241Z
+2024-02-08 16:28:51,333 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:52,251 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:28:56,363 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:28:56,367 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:52.251Z
+2024-02-08 16:28:56,368 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:28:57,258 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:01,355 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:01,358 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:28:57.258Z
+2024-02-08 16:29:01,359 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:02,249 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:06,327 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:06,335 - basicLogger - DEBUG - Num Hotel Room Reservations: 2 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:02.252Z
+2024-02-08 16:29:06,336 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:07,241 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:11,324 - basicLogger - INFO - Received 1 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:11,336 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-08 16:29:11,336 - basicLogger - DEBUG - Num Hotel Room Reservations: 3 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:07.241Z
+2024-02-08 16:29:11,336 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:12,255 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:16,352 - basicLogger - INFO - Received 1 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:16,357 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-08 16:29:16,358 - basicLogger - DEBUG - Num Hotel Room Reservations: 4 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:12.255Z
+2024-02-08 16:29:16,359 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:17,250 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:21,332 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:21,347 - basicLogger - DEBUG - Num Hotel Room Reservations: 4 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:17.250Z
+2024-02-08 16:29:21,348 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:22,244 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:26,359 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:26,365 - basicLogger - DEBUG - Num Hotel Room Reservations: 4 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:22.244Z
+2024-02-08 16:29:26,367 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:27,251 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:31,354 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:31,361 - basicLogger - DEBUG - Num Hotel Room Reservations: 4 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:27.251Z
+2024-02-08 16:29:31,363 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:32,243 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:36,363 - basicLogger - INFO - Received 3 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:36,372 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: d290f1ee-6c54-4b01-90e6-d701748f0852, d290f1ee-6c54-4b01-90e6-d701748f0852, d290f1ee-6c54-4b01-90e6-d701748f0852
+2024-02-08 16:29:36,373 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:32.244Z
+2024-02-08 16:29:36,374 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:37,246 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:41,349 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:41,355 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:37.246Z
+2024-02-08 16:29:41,356 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:42,243 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:46,320 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:46,337 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:42.245Z
+2024-02-08 16:29:46,339 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:47,242 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:51,325 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:51,327 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:47.243Z
+2024-02-08 16:29:51,332 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:52,243 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:29:56,364 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:29:56,369 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:52.248Z
+2024-02-08 16:29:56,370 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:29:57,254 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:01,357 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:01,374 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:29:57.254Z
+2024-02-08 16:30:01,376 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:02,246 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:06,297 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:06,315 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:02.246Z
+2024-02-08 16:30:06,316 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:07,246 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:11,346 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:11,348 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:07.251Z
+2024-02-08 16:30:11,354 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:12,243 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:16,341 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:16,347 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 4 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:12.246Z
+2024-02-08 16:30:16,348 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:17,243 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:21,321 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 2 Hotel Activity Reservation events
+2024-02-08 16:30:21,323 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: d290f1ee-6c54-4b01-90e6-d701748f0853, d290f1ee-6c54-4b01-90e6-d701748f0853
+2024-02-08 16:30:21,324 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:17.243Z
+2024-02-08 16:30:21,325 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:22,242 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:26,344 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:26,350 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:22.242Z
+2024-02-08 16:30:26,351 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:27,245 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:31,335 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:31,339 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:27.245Z
+2024-02-08 16:30:31,340 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:32,245 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:36,330 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:36,330 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:32.249Z
+2024-02-08 16:30:36,330 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:37,247 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:41,314 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:41,328 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:37.247Z
+2024-02-08 16:30:41,329 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:42,245 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:42,989 - basicLogger - INFO - Request Started
+2024-02-08 16:30:42,996 - basicLogger - DEBUG - {'num_hotel_room_reservations': 7, 'max_hotel_room_ppl': 1, 'num_hotel_activity_reservations': 6, 'max_hotel_activity_ppl': 3}
+2024-02-08 16:30:42,996 - basicLogger - INFO - Request Completed!
+2024-02-08 16:30:46,318 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:46,339 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:42.247Z
+2024-02-08 16:30:46,340 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:47,245 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:51,292 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:51,307 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:47.249Z
+2024-02-08 16:30:51,308 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:52,247 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:30:56,351 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:30:56,351 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:52.247Z
+2024-02-08 16:30:56,351 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:30:57,247 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:31:01,310 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:31:01,326 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:30:57.251Z
+2024-02-08 16:31:01,326 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:31:02,251 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:31:06,318 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:31:06,330 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:31:02.252Z
+2024-02-08 16:31:06,330 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:07,368 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:11,449 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:11,464 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:07.380Z
+2024-02-08 16:32:11,464 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:12,356 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:16,485 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:16,485 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:12.356Z
+2024-02-08 16:32:16,485 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:17,365 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:21,454 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:21,454 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:17.365Z
+2024-02-08 16:32:21,454 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:22,360 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:26,436 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:26,454 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:22.360Z
+2024-02-08 16:32:26,454 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:27,361 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:31,448 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:31,450 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:27.368Z
+2024-02-08 16:32:31,453 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:32,358 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:36,441 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:36,441 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:32.364Z
+2024-02-08 16:32:36,441 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:37,363 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:41,427 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:41,443 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:37.369Z
+2024-02-08 16:32:41,443 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:42,362 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:46,445 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:46,447 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:42.362Z
+2024-02-08 16:32:46,447 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:47,364 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:51,439 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:51,439 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:47.364Z
+2024-02-08 16:32:51,439 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:52,365 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:32:56,431 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:32:56,446 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:52.370Z
+2024-02-08 16:32:56,446 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:32:57,362 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:01,442 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:33:01,442 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:32:57.362Z
+2024-02-08 16:33:01,442 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:02,360 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:06,414 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:33:06,414 - basicLogger - DEBUG - Num Hotel Room Reservations: 7 
+Max Hotel Room People: 1 
+Num Hotel Activity Reservations: 6 
+Max Hotel Activity People: 3
+Last Updated: 2024-02-08T16:33:02.360Z
+2024-02-08 16:33:06,414 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:07,358 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:11,430 - basicLogger - INFO - Received 10 Hotel Room Reservation events and 10 Hotel Activity Reservation events
+2024-02-08 16:33:11,430 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: 162a1b65-63a1-4640-94e8-d8b4ad1036ac, d9f50f0c-54fb-4c3c-9b5f-fe8ddc481d61, fec57b3e-5f86-441a-9fb3-3d948444a47b, 8fd81331-14e2-4a6a-9a5b-8baeec006649, 301e1d7b-22d4-4dd4-9d96-667332965f4b, ca5b4d07-db96-4479-b60d-4d509ff3da18, 55ad1b2f-e4e6-455b-9e0e-d3f8dd76ceeb, f5da40f3-172f-45e5-96d3-5807263ffc7e, 8c0035cb-29c3-4263-97be-47da5fc86a48, ddcde033-85be-494f-b6d4-7871425829ca
+2024-02-08 16:33:11,430 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: 1f0bac0b-2e1a-47a6-8d0d-2e4977db669b, 1f446ddd-53a2-464f-85ea-c4eb1b34a09c, ceab4f4e-f964-4563-9699-67169a8dbeda, 8e6c19e7-c610-4dd5-bd68-3b8278bf3092, df01c7aa-9214-4c2e-bdb6-98e1bf0b9418, de5f3a7b-8080-4916-95ef-229c79d75f50, 0436148c-3f12-4bda-b0e6-3b0960ca4731, ada62a36-f6b1-44d9-8e11-983856234da7, 55906277-6d7e-4c11-b841-6f960431f8df, f9d7e79f-c203-4eb0-a0d6-cfeea82c0d29
+2024-02-08 16:33:11,430 - basicLogger - DEBUG - Num Hotel Room Reservations: 17 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 16 
+Max Hotel Activity People: 4
+Last Updated: 2024-02-08T16:33:07.358Z
+2024-02-08 16:33:11,430 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:12,354 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:16,437 - basicLogger - INFO - Received 10 Hotel Room Reservation events and 10 Hotel Activity Reservation events
+2024-02-08 16:33:16,437 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: e9768e1a-0d47-48a6-a27c-17e5251c29f6, 9fb3188b-25aa-420a-aed3-031a731ef870, be82c021-3c91-44f3-86cb-0d5ba5ccf928, a96f4ab6-7820-45c0-988f-d060dcc7ca4d, ac6cec55-dadb-4370-a9e3-0cf95b999067, cbee58e3-de22-460c-a22f-c29e0412dc41, bebe9a16-ba0e-4d2b-b43b-68212068b093, f075f907-7783-4b75-939c-54012c7f42f5, 4eba1a3d-4510-420c-8f97-7097fc987fb9, ddfee5cd-98ba-4ddc-80ae-5b8eeb87c3ee
+2024-02-08 16:33:16,437 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: 726cea1e-697e-4658-a20f-82373055fbe4, 148af02d-0f5e-4a94-9077-a719b5df1d50, b3c1c84f-3910-4040-a500-2d5c9f518c72, 585d0340-2c8e-44be-95ae-f2c510314ac0, 5352d27a-5ff2-4e6e-af87-6ff2b9bc7803, 258b3818-454e-411c-a301-0fbe24d30ae8, 774bfec7-0c4f-4afb-86e6-caab48787b51, 0df28a44-451e-4c24-a493-6d686a354fc1, b098eefe-f529-4875-9779-b2ff7a083ed0, d2d0b8bc-6981-4bb5-a2c7-3f7be256db47
+2024-02-08 16:33:16,437 - basicLogger - DEBUG - Num Hotel Room Reservations: 27 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 26 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:12.354Z
+2024-02-08 16:33:16,437 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:17,363 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:21,409 - basicLogger - INFO - Received 20 Hotel Room Reservation events and 10 Hotel Activity Reservation events
+2024-02-08 16:33:21,409 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: 4e862f2a-a080-48b9-9e57-ece3d7ad79e5, fae29899-feb6-47af-a3a8-99482641d9cd, dfdf3070-67ac-41a9-8efb-48860cc167e1, 51f30395-d4a4-4f86-a57d-7f7ff289fb84, 2e423086-b4e3-48ad-9ffe-591f2dee1d0d, 8784de2b-c62b-48d0-946c-4e5f89f03727, e1aa0c25-7535-4658-a143-b67d8a0ff5f5, 643b7f54-6f1e-47d8-9c57-100de956986a, 7d92f535-02fb-4eeb-9679-c9cb38413bb2, 47504eef-0976-4f80-b731-d11cfa128ef5, b125ce5d-938a-4165-8101-da8a653e2da3, e3c0b360-763a-47f2-bec2-77a1e8668add, 8d2692a5-def5-4d5f-bde2-7847e39daede, 893e4f9d-c905-4127-98bd-97b86db43f5d, 98edd607-8f0b-4dd9-869f-11b64640a14b, ef9d841f-b6d7-4f37-aeca-3755bfef0332, bfd80a38-2f43-4d13-bddd-14188ea1418c, 5799ad33-647a-4b2f-b710-3b2676f6754e, dae60d28-54fd-4811-8434-3cc4fd7b636b, 173868e6-a258-4f58-953f-8017e6395cce
+2024-02-08 16:33:21,409 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: 50126065-93c9-44ac-a217-18abf8dfc8ab, a0285417-f631-4c4e-a354-066706bd08e7, 12d969dc-1ec1-44af-93ab-d15efaf4fb31, df7b7955-157c-43f1-a65f-c7ff2e3a2ae1, 5f5bab30-8c2a-4e39-baae-5f64a7306ca3, e208b106-6297-430a-89b5-9cc6ec9dc5f0, 30cee112-a7f0-4f95-b389-48bda1367747, 8d340e0a-2f27-4f0c-8683-c76bb73aa5ef, 8b9abcc3-7cd7-4a6c-86c7-5ab24111a5b4, 75eba721-0103-440e-b517-b9f80e5c6201
+2024-02-08 16:33:21,409 - basicLogger - DEBUG - Num Hotel Room Reservations: 47 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 36 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:17.363Z
+2024-02-08 16:33:21,409 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:22,369 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:26,456 - basicLogger - INFO - Received 10 Hotel Room Reservation events and 10 Hotel Activity Reservation events
+2024-02-08 16:33:26,456 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: 36aa102b-f1ff-4d6c-99a9-af7674c0f2a9, f65a0a05-8398-4a4e-af33-8cbbfd083e8f, 81b6cc6f-0b85-46c7-ae5b-b92e2d0149f5, 289c928a-0035-4caa-9288-741de35bd716, a425a63f-ce5a-431d-8a6e-9fa5b0d03577, 2adf254a-74c6-4ba0-9b93-66992e7a3862, c263fd1d-8d79-4959-b630-091a724d52b3, 888a7aea-a6c9-443d-a015-5f7fa2b1bb86, 273a8635-31eb-466a-b788-885fc7b9c2c5, 67b13cb8-8b9b-48b6-b5e3-e2e8a592cdc0
+2024-02-08 16:33:26,456 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: e56b499c-32bb-465e-9445-2127896ae6bb, ef30de10-8ccc-4cdf-a016-b290e94baee3, e6213974-78f2-4fe6-ad5f-4db165fe3250, 412814d5-fca0-49a6-aa85-33a8b24ecc30, f8ca0cad-787c-4430-b6a2-78880db7737c, 6ed9afce-f96d-4ded-8881-a80e794c18aa, 6894a4a9-ff91-4387-873b-c92ac2a99827, f834dc50-e725-4a24-ace4-fe97d2ef11e9, 978fde80-4e91-4ddc-b9e3-639be09b4804, 160548b4-4d9e-46a9-b1af-668c64244404
+2024-02-08 16:33:26,456 - basicLogger - DEBUG - Num Hotel Room Reservations: 57 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 46 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:22.371Z
+2024-02-08 16:33:26,456 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:27,369 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:31,452 - basicLogger - INFO - Received 10 Hotel Room Reservation events and 20 Hotel Activity Reservation events
+2024-02-08 16:33:31,452 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: b72165af-767c-4756-a05e-88f2bcef7f37, d939c027-6ff4-4537-b5e5-4d220ba59bd7, 077707fa-2e03-45f5-bd6d-e56a11a528d8, 9b19e0b8-54bf-434f-b61e-ccffa2d62bbb, 8e825c8f-afc0-487e-af15-0d6cf92ca715, d35fb43e-2798-49c9-b7d9-581963844e3b, e0110b2f-2a70-4771-a525-d6f1b32472cf, 2430c82d-0265-4ef6-8b96-2e55bf9a069f, 83cbb702-3b57-4abc-847a-e1fd79d8c781, 2f83c53a-30c0-4348-ad2c-19736838f0bb
+2024-02-08 16:33:31,452 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: d5280bde-269a-4de5-a625-aaa67bc5e96c, 7d384210-f603-4bf3-a61e-f03b9a57d5f9, 5a05b8b1-abad-41c2-9e3c-7d4a14d54985, 40f291b4-754f-4b49-857f-49386c70be42, d65c1869-c761-4ba7-b9c9-2e7444dc59fa, a59028c1-1229-4d0e-ad13-10c9f43d0872, 26feab03-c255-45b6-9ee7-9ed11c249189, c60e1562-47ba-4649-bf31-aad77bf358de, 445ddd41-320c-42cd-a117-80259f646abd, fdc46e6d-15f2-4c9c-971d-69c51e905b5b, 93fdd96f-0d15-41b5-8930-b84c138cd5e7, 4e378c22-521a-42b2-952a-d73151d9cd38, edb2f88f-a0cb-4fc9-84ee-98a08e1b59c0, 4f164d51-9b33-4ae3-98d9-27023ce42826, 577e6d48-6be6-4b28-ab46-513334475c90, 0df9e6f2-4528-431b-869b-bd4e21ab5d83, 71874e37-9b29-44e1-b31d-0bc5a095ed72, eb9a3b0b-0a8e-48c2-9641-4e75ec86d475, 42f4b79a-5df2-4a72-8b46-aad6c5243293, 5d71df9b-a2fc-4da2-8d99-493b140f364e
+2024-02-08 16:33:31,452 - basicLogger - DEBUG - Num Hotel Room Reservations: 67 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 66 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:27.369Z
+2024-02-08 16:33:31,452 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:32,363 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:36,444 - basicLogger - INFO - Received 10 Hotel Room Reservation events and 10 Hotel Activity Reservation events
+2024-02-08 16:33:36,444 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: 71e81f50-cff8-495d-91ec-25a005ffc3ed, 73332a1c-08da-4e95-a6fd-3a9e14b4792c, ae084297-b33c-42ff-9db8-8c01e2b11501, 60232cc4-f618-4130-912b-b7e4ca695ee0, 12041dd9-b0eb-45b8-9029-b2a59b841425, 801e2197-813a-49bc-838e-4f37cf5bfaeb, 15377dc5-0ad3-4e4c-84c1-b98200e8ae02, c741b04b-0b05-4646-b1ac-d44659f1c936, 3bd147be-b404-40b1-a36e-f9de09cbff2c, 141e5098-9c59-4746-ba60-15204513f7bd
+2024-02-08 16:33:36,444 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: 6732dd27-777f-433b-bf41-36c785054630, 1e4dc460-bf38-4954-bff5-5052627ca78a, 47a52056-b778-49ec-b419-ad7c139208f7, 90114cb1-1bd4-4685-bdd3-c51afec385d3, 0f8182d7-31c7-4dad-8cc6-608d275a6ba0, 1044935b-66ba-40ae-9f30-153cda0e8924, bcbd4964-1df5-486f-a0ea-7b429d58dfe0, 71c8dd4f-f2e6-4ec8-9085-4aac3a395ff9, aff0bfe0-661d-420b-ae83-5ee3727a47e5, 518f1002-0617-454a-aeee-5d14b32c6c1f
+2024-02-08 16:33:36,444 - basicLogger - DEBUG - Num Hotel Room Reservations: 77 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 76 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:32.364Z
+2024-02-08 16:33:36,444 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:37,354 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:41,422 - basicLogger - INFO - Received 10 Hotel Room Reservation events and 10 Hotel Activity Reservation events
+2024-02-08 16:33:41,422 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: 4de275c6-c001-4581-943c-e30285ed577a, 52408a36-9248-4262-bf9c-5738f3718612, cfeedbe8-bcf2-493d-847d-4c9091aba2dd, 1ebcc8fe-144d-48d2-9f2c-a790e2d4e95c, 5c15525d-a949-4d30-8912-2955549f3562, c7d9fb23-db40-417b-adff-fd932b138ee5, a9f05af5-b5e3-49cc-a436-b7e3016966f5, a744ff82-ad45-4a6c-a123-b13fbde75ee4, 32d4867c-f773-47d4-87a8-149da33b91f7, 3335afd6-a4a4-4633-944b-7bff21937e0d
+2024-02-08 16:33:41,422 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: e89eae92-b2f5-4806-89e6-549fc40fde29, bc31ee28-b010-462e-aeee-5d028a16d6b1, 96574e0d-74cd-4bb4-82f2-831b5905eece, 9f9f6e59-18d7-4598-b2be-36bd0a6e7779, 3282d56e-4ade-47aa-b636-9b4352d60e9c, cca1e317-73bf-4fd1-adc0-8beaf69d07cf, fc7f623a-fcaf-42ec-901e-c68712533c35, 48437f5f-44d1-4586-aa16-bca7bde355c6, aa7adeab-289f-4151-ac3b-9975d06effa0, e5c87ba9-3e6b-48fe-b9d4-59aac6a84a56
+2024-02-08 16:33:41,429 - basicLogger - DEBUG - Num Hotel Room Reservations: 87 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 86 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:37.354Z
+2024-02-08 16:33:41,429 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:42,361 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:46,435 - basicLogger - INFO - Received 20 Hotel Room Reservation events and 10 Hotel Activity Reservation events
+2024-02-08 16:33:46,435 - basicLogger - DEBUG - Processed Hotel Room Reservation Event Trace IDs: bb36e4cd-83ed-4260-98d0-d19c7cf7e697, 11d0b14e-bc36-4a0f-864c-7e31802cd442, b75a186e-c005-4dac-b8cc-d2c1668118f6, 0209dbbe-d3cf-479d-ace4-c919d5e48424, f1ed1d81-e6bc-45a3-a987-0df3a0e27f4d, 751889da-16db-4fd7-a0bf-820073ae9b82, 3c91c319-bd15-4a8d-bd11-2f62f71bb7df, b83422e3-a7bb-49ac-9eca-46dc25fdcd66, 2925eda6-0e22-45c8-8d86-72c307e1970a, 31047a79-c8f9-4207-bd2a-249c3235b93c, 0728cedb-0484-4cba-aa81-9d91c726a8c1, 17217139-2d59-43dc-8040-a553ce357115, 9644d46d-afb2-428f-8bff-9464693448ad, b3c6c111-630c-497c-ae7b-5814b276cca3, e5144a33-5ba4-4ee6-b5f2-595941dcc272, 89d05fba-8406-4666-9255-32dfd620c8b2, f552fb35-69be-4452-b6e6-3bbefad71a30, f5b4d439-ad13-4524-830b-46913d0d1750, f39879d6-c430-452c-81ed-03ff5186ee91, 10967c7e-ab8a-4ce7-b1c7-82bafdc052f3
+2024-02-08 16:33:46,435 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: dea9ae43-28cc-4be5-bff6-b28dd353a560, 47b74896-5636-431d-8432-7451bce429cd, cf24670d-b6fb-4768-8e7a-36a3d9a5f652, 3d3e1814-507d-47f7-b835-ba50ea53814b, 065c5d42-59f1-481b-80ee-9723dd9c672e, b0fa6e06-78b1-4967-8b70-a70c244df6a5, 282b3ee9-4157-4bdb-966c-fcde14a526dc, ce1eef66-accb-4d63-bf00-73816bc7a9bb, c1894fe4-6ebb-4b7b-b51c-40f46dbc998b, f0416182-d0b2-4cbb-8670-bf6cc13b2b68
+2024-02-08 16:33:46,452 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 96 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:42.361Z
+2024-02-08 16:33:46,452 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:47,362 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:51,447 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 10 Hotel Activity Reservation events
+2024-02-08 16:33:51,447 - basicLogger - DEBUG - Processed Hotel Activity Reservation Event Trace IDs: 8ab02180-236a-4162-b15d-be7a2f02224b, 08e70f20-90e2-452c-a0a3-2bd22fecfc21, c12a9c5c-d8ea-4dff-b4f0-5414e570aa30, ffe8d9d7-6763-4592-ad05-9d993344b4fa, 14d16b0d-1b54-4725-a129-050a420fcec0, ab5f9e77-132f-474c-8e77-f155207e791f, 305a5329-da3c-419b-9f5f-8dce21ee11f8, 9dd9728b-bdf9-493c-83f7-fd5418a3f6a4, b4327d6e-46b1-4da9-bc08-1daf75dc29c4, 4fad231a-4c00-4c80-9ad4-0b3bd8454bda
+2024-02-08 16:33:51,447 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 106 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:47.362Z
+2024-02-08 16:33:51,447 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:52,357 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:33:56,409 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:33:56,409 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 106 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:52.357Z
+2024-02-08 16:33:56,409 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:33:57,364 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:34:01,429 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:34:01,445 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 106 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:33:57.364Z
+2024-02-08 16:34:01,445 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:34:02,356 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:34:06,416 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:34:06,431 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 106 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:34:02.356Z
+2024-02-08 16:34:06,431 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:34:07,357 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:34:11,444 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:34:11,444 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 106 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:34:07.357Z
+2024-02-08 16:34:11,444 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:34:12,357 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:34:16,429 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:34:16,431 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 106 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:34:12.357Z
+2024-02-08 16:34:16,432 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:34:17,366 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:34:21,479 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:34:21,479 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 106 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:34:17.366Z
+2024-02-08 16:34:21,492 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:34:22,361 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:34:26,456 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:34:26,456 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 106 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:34:22.361Z
+2024-02-08 16:34:26,456 - basicLogger - INFO - End Periodic Processing
+2024-02-08 16:34:27,366 - basicLogger - INFO - Start Periodic Processing
+2024-02-08 16:34:31,426 - basicLogger - INFO - Received 0 Hotel Room Reservation events and 0 Hotel Activity Reservation events
+2024-02-08 16:34:31,426 - basicLogger - DEBUG - Num Hotel Room Reservations: 107 
+Max Hotel Room People: 4 
+Num Hotel Activity Reservations: 106 
+Max Hotel Activity People: 5
+Last Updated: 2024-02-08T16:34:27.366Z
+2024-02-08 16:34:31,442 - basicLogger - INFO - End Periodic Processing

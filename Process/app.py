@@ -97,13 +97,14 @@ def populate_stats():
             last_updated=datetime.datetime.now()
         )
     
-    last_updated = stats.last_updated
 
     session.add(stats)
     session.commit()
 
     print("Pass Three!")
 
+    last_updated = stats.last_updated
+    
     # Get the current datetime
     current_datetime = datetime.datetime.now()
 
@@ -157,12 +158,14 @@ def populate_stats():
     # Based on the new events from the Data Store Service:
     # Calculate your updated statistics
 
-    max_hotel_room_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_room_ppl.desc()).first() 
-    max_hotel_room_ppl_int = max_hotel_room_ppl_sql.max_hotel_room_ppl
+    max_hotel_room_ppl_int = stats.max_hotel_room_ppl
+    # max_hotel_room_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_room_ppl.desc()).first() 
+    # max_hotel_room_ppl_int = max_hotel_room_ppl_sql.max_hotel_room_ppl
     # print(max_hotel_room_ppl_int)
 
-    max_hotel_activity_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_activity_ppl.desc()).first() 
-    max_hotel_activity_ppl_int = max_hotel_activity_ppl_sql.max_hotel_activity_ppl
+    max_hotel_activity_ppl_int = stats.max_hotel_activity_ppl
+    # max_hotel_activity_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_activity_ppl.desc()).first() 
+    # max_hotel_activity_ppl_int = max_hotel_activity_ppl_sql.max_hotel_activity_ppl
     # print(max_hotel_activity_ppl_int)
 
 

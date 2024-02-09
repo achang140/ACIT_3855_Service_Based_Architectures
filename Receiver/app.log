@@ -2081,3 +2081,415 @@
 2024-02-08 16:14:12,039 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 1ec8fc1f-c74d-4684-b4f0-bbaed11fd0f4) with status 201
 2024-02-08 16:14:35,732 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 271b8874-9cd5-4f0d-bc46-19477903aa52
 2024-02-08 16:14:37,759 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $271b8874-9cd5-4f0d-bc46-19477903aa52) with status $201
+2024-02-08 16:26:48,265 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 0d2b4e75-2b5c-4e4e-be8e-bbddbe2ade03
+2024-02-08 16:26:50,299 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $0d2b4e75-2b5c-4e4e-be8e-bbddbe2ade03) with status $201
+2024-02-08 16:26:52,318 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 58fdd3a1-37dc-4e45-95a5-8e932d10b7b2
+2024-02-08 16:26:54,381 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $58fdd3a1-37dc-4e45-95a5-8e932d10b7b2) with status $201
+2024-02-08 16:27:12,556 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 1512a406-adf2-4d6f-bffa-8fbdc1b0e31e
+2024-02-08 16:27:14,602 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 1512a406-adf2-4d6f-bffa-8fbdc1b0e31e) with status 201
+2024-02-08 16:27:26,087 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 31742169-f719-4f15-b136-5f9bd6f52b4b
+2024-02-08 16:27:28,118 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 31742169-f719-4f15-b136-5f9bd6f52b4b) with status 201
+2024-02-08 16:27:28,856 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of ec234a0f-c766-4df9-adca-30bab3402a83
+2024-02-08 16:27:30,893 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: ec234a0f-c766-4df9-adca-30bab3402a83) with status 201
+2024-02-08 16:27:31,360 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of ddaa6f36-73cf-4e13-a753-4272ab6e5560
+2024-02-08 16:27:33,387 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: ddaa6f36-73cf-4e13-a753-4272ab6e5560) with status 201
+2024-02-08 16:33:02,360 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 162a1b65-63a1-4640-94e8-d8b4ad1036ac
+2024-02-08 16:33:02,376 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 8fd81331-14e2-4a6a-9a5b-8baeec006649
+2024-02-08 16:33:02,376 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of d9f50f0c-54fb-4c3c-9b5f-fe8ddc481d61
+2024-02-08 16:33:02,376 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of ca5b4d07-db96-4479-b60d-4d509ff3da18
+2024-02-08 16:33:02,376 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 55ad1b2f-e4e6-455b-9e0e-d3f8dd76ceeb
+2024-02-08 16:33:02,376 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 301e1d7b-22d4-4dd4-9d96-667332965f4b
+2024-02-08 16:33:02,376 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of ddcde033-85be-494f-b6d4-7871425829ca
+2024-02-08 16:33:02,376 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 8c0035cb-29c3-4263-97be-47da5fc86a48
+2024-02-08 16:33:02,376 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of fec57b3e-5f86-441a-9fb3-3d948444a47b
+2024-02-08 16:33:02,376 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of f5da40f3-172f-45e5-96d3-5807263ffc7e
+2024-02-08 16:33:04,405 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $162a1b65-63a1-4640-94e8-d8b4ad1036ac) with status $201
+2024-02-08 16:33:04,445 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $d9f50f0c-54fb-4c3c-9b5f-fe8ddc481d61) with status $201
+2024-02-08 16:33:04,452 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $fec57b3e-5f86-441a-9fb3-3d948444a47b) with status $201
+2024-02-08 16:33:04,468 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $8fd81331-14e2-4a6a-9a5b-8baeec006649) with status $201
+2024-02-08 16:33:04,468 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 8e6c19e7-c610-4dd5-bd68-3b8278bf3092
+2024-02-08 16:33:04,468 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 1f0bac0b-2e1a-47a6-8d0d-2e4977db669b
+2024-02-08 16:33:04,468 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 1f446ddd-53a2-464f-85ea-c4eb1b34a09c
+2024-02-08 16:33:04,468 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $301e1d7b-22d4-4dd4-9d96-667332965f4b) with status $201
+2024-02-08 16:33:04,486 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $ca5b4d07-db96-4479-b60d-4d509ff3da18) with status $201
+2024-02-08 16:33:04,486 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $f5da40f3-172f-45e5-96d3-5807263ffc7e) with status $201
+2024-02-08 16:33:04,494 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $8c0035cb-29c3-4263-97be-47da5fc86a48) with status $201
+2024-02-08 16:33:04,499 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of ceab4f4e-f964-4563-9699-67169a8dbeda
+2024-02-08 16:33:04,522 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $55ad1b2f-e4e6-455b-9e0e-d3f8dd76ceeb) with status $201
+2024-02-08 16:33:04,523 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $ddcde033-85be-494f-b6d4-7871425829ca) with status $201
+2024-02-08 16:33:04,529 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of de5f3a7b-8080-4916-95ef-229c79d75f50
+2024-02-08 16:33:04,531 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 0436148c-3f12-4bda-b0e6-3b0960ca4731
+2024-02-08 16:33:04,531 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of df01c7aa-9214-4c2e-bdb6-98e1bf0b9418
+2024-02-08 16:33:04,531 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of ada62a36-f6b1-44d9-8e11-983856234da7
+2024-02-08 16:33:04,546 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of f9d7e79f-c203-4eb0-a0d6-cfeea82c0d29
+2024-02-08 16:33:04,546 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 55906277-6d7e-4c11-b841-6f960431f8df
+2024-02-08 16:33:06,508 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 1f0bac0b-2e1a-47a6-8d0d-2e4977db669b) with status 201
+2024-02-08 16:33:06,535 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 1f446ddd-53a2-464f-85ea-c4eb1b34a09c) with status 201
+2024-02-08 16:33:06,536 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: ceab4f4e-f964-4563-9699-67169a8dbeda) with status 201
+2024-02-08 16:33:06,540 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of e9768e1a-0d47-48a6-a27c-17e5251c29f6
+2024-02-08 16:33:06,557 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 8e6c19e7-c610-4dd5-bd68-3b8278bf3092) with status 201
+2024-02-08 16:33:06,561 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of be82c021-3c91-44f3-86cb-0d5ba5ccf928
+2024-02-08 16:33:06,563 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 9fb3188b-25aa-420a-aed3-031a731ef870
+2024-02-08 16:33:06,576 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: df01c7aa-9214-4c2e-bdb6-98e1bf0b9418) with status 201
+2024-02-08 16:33:06,576 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: de5f3a7b-8080-4916-95ef-229c79d75f50) with status 201
+2024-02-08 16:33:06,576 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of ac6cec55-dadb-4370-a9e3-0cf95b999067
+2024-02-08 16:33:06,592 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 0436148c-3f12-4bda-b0e6-3b0960ca4731) with status 201
+2024-02-08 16:33:06,597 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of a96f4ab6-7820-45c0-988f-d060dcc7ca4d
+2024-02-08 16:33:06,603 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of cbee58e3-de22-460c-a22f-c29e0412dc41
+2024-02-08 16:33:06,609 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: ada62a36-f6b1-44d9-8e11-983856234da7) with status 201
+2024-02-08 16:33:06,609 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 55906277-6d7e-4c11-b841-6f960431f8df) with status 201
+2024-02-08 16:33:06,609 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: f9d7e79f-c203-4eb0-a0d6-cfeea82c0d29) with status 201
+2024-02-08 16:33:06,609 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of bebe9a16-ba0e-4d2b-b43b-68212068b093
+2024-02-08 16:33:06,640 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of ddfee5cd-98ba-4ddc-80ae-5b8eeb87c3ee
+2024-02-08 16:33:06,640 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 4eba1a3d-4510-420c-8f97-7097fc987fb9
+2024-02-08 16:33:06,640 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of f075f907-7783-4b75-939c-54012c7f42f5
+2024-02-08 16:33:08,584 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $e9768e1a-0d47-48a6-a27c-17e5251c29f6) with status $201
+2024-02-08 16:33:08,601 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $9fb3188b-25aa-420a-aed3-031a731ef870) with status $201
+2024-02-08 16:33:08,601 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $be82c021-3c91-44f3-86cb-0d5ba5ccf928) with status $201
+2024-02-08 16:33:08,624 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 726cea1e-697e-4658-a20f-82373055fbe4
+2024-02-08 16:33:08,632 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $a96f4ab6-7820-45c0-988f-d060dcc7ca4d) with status $201
+2024-02-08 16:33:08,635 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $ac6cec55-dadb-4370-a9e3-0cf95b999067) with status $201
+2024-02-08 16:33:08,635 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of b3c1c84f-3910-4040-a500-2d5c9f518c72
+2024-02-08 16:33:08,635 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 148af02d-0f5e-4a94-9077-a719b5df1d50
+2024-02-08 16:33:08,647 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $cbee58e3-de22-460c-a22f-c29e0412dc41) with status $201
+2024-02-08 16:33:08,647 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 585d0340-2c8e-44be-95ae-f2c510314ac0
+2024-02-08 16:33:08,647 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 5352d27a-5ff2-4e6e-af87-6ff2b9bc7803
+2024-02-08 16:33:08,647 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $bebe9a16-ba0e-4d2b-b43b-68212068b093) with status $201
+2024-02-08 16:33:08,663 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 774bfec7-0c4f-4afb-86e6-caab48787b51
+2024-02-08 16:33:08,678 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 258b3818-454e-411c-a301-0fbe24d30ae8
+2024-02-08 16:33:08,694 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $4eba1a3d-4510-420c-8f97-7097fc987fb9) with status $201
+2024-02-08 16:33:08,694 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $f075f907-7783-4b75-939c-54012c7f42f5) with status $201
+2024-02-08 16:33:08,694 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $ddfee5cd-98ba-4ddc-80ae-5b8eeb87c3ee) with status $201
+2024-02-08 16:33:08,713 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of b098eefe-f529-4875-9779-b2ff7a083ed0
+2024-02-08 16:33:08,713 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 0df28a44-451e-4c24-a493-6d686a354fc1
+2024-02-08 16:33:08,713 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of d2d0b8bc-6981-4bb5-a2c7-3f7be256db47
+2024-02-08 16:33:10,659 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 726cea1e-697e-4658-a20f-82373055fbe4) with status 201
+2024-02-08 16:33:10,675 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 148af02d-0f5e-4a94-9077-a719b5df1d50) with status 201
+2024-02-08 16:33:10,675 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: b3c1c84f-3910-4040-a500-2d5c9f518c72) with status 201
+2024-02-08 16:33:10,675 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 4e862f2a-a080-48b9-9e57-ece3d7ad79e5
+2024-02-08 16:33:10,675 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 585d0340-2c8e-44be-95ae-f2c510314ac0) with status 201
+2024-02-08 16:33:10,691 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of fae29899-feb6-47af-a3a8-99482641d9cd
+2024-02-08 16:33:10,691 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 51f30395-d4a4-4f86-a57d-7f7ff289fb84
+2024-02-08 16:33:10,691 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of dfdf3070-67ac-41a9-8efb-48860cc167e1
+2024-02-08 16:33:10,691 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 5352d27a-5ff2-4e6e-af87-6ff2b9bc7803) with status 201
+2024-02-08 16:33:10,706 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 258b3818-454e-411c-a301-0fbe24d30ae8) with status 201
+2024-02-08 16:33:10,706 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 774bfec7-0c4f-4afb-86e6-caab48787b51) with status 201
+2024-02-08 16:33:10,706 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 2e423086-b4e3-48ad-9ffe-591f2dee1d0d
+2024-02-08 16:33:10,722 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of e1aa0c25-7535-4658-a143-b67d8a0ff5f5
+2024-02-08 16:33:10,722 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 8784de2b-c62b-48d0-946c-4e5f89f03727
+2024-02-08 16:33:10,754 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: b098eefe-f529-4875-9779-b2ff7a083ed0) with status 201
+2024-02-08 16:33:10,754 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 0df28a44-451e-4c24-a493-6d686a354fc1) with status 201
+2024-02-08 16:33:10,754 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: d2d0b8bc-6981-4bb5-a2c7-3f7be256db47) with status 201
+2024-02-08 16:33:10,770 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 47504eef-0976-4f80-b731-d11cfa128ef5
+2024-02-08 16:33:10,770 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 643b7f54-6f1e-47d8-9c57-100de956986a
+2024-02-08 16:33:10,770 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 7d92f535-02fb-4eeb-9679-c9cb38413bb2
+2024-02-08 16:33:12,714 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $4e862f2a-a080-48b9-9e57-ece3d7ad79e5) with status $201
+2024-02-08 16:33:12,730 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $fae29899-feb6-47af-a3a8-99482641d9cd) with status $201
+2024-02-08 16:33:12,730 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 50126065-93c9-44ac-a217-18abf8dfc8ab
+2024-02-08 16:33:12,742 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $51f30395-d4a4-4f86-a57d-7f7ff289fb84) with status $201
+2024-02-08 16:33:12,746 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $dfdf3070-67ac-41a9-8efb-48860cc167e1) with status $201
+2024-02-08 16:33:12,746 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of a0285417-f631-4c4e-a354-066706bd08e7
+2024-02-08 16:33:12,763 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $2e423086-b4e3-48ad-9ffe-591f2dee1d0d) with status $201
+2024-02-08 16:33:12,763 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 5f5bab30-8c2a-4e39-baae-5f64a7306ca3
+2024-02-08 16:33:12,763 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 12d969dc-1ec1-44af-93ab-d15efaf4fb31
+2024-02-08 16:33:12,777 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of df7b7955-157c-43f1-a65f-c7ff2e3a2ae1
+2024-02-08 16:33:12,777 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $8784de2b-c62b-48d0-946c-4e5f89f03727) with status $201
+2024-02-08 16:33:12,777 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $e1aa0c25-7535-4658-a143-b67d8a0ff5f5) with status $201
+2024-02-08 16:33:12,792 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of e208b106-6297-430a-89b5-9cc6ec9dc5f0
+2024-02-08 16:33:12,792 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 30cee112-a7f0-4f95-b389-48bda1367747
+2024-02-08 16:33:12,792 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $643b7f54-6f1e-47d8-9c57-100de956986a) with status $201
+2024-02-08 16:33:12,792 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $7d92f535-02fb-4eeb-9679-c9cb38413bb2) with status $201
+2024-02-08 16:33:12,817 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $47504eef-0976-4f80-b731-d11cfa128ef5) with status $201
+2024-02-08 16:33:12,817 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 8b9abcc3-7cd7-4a6c-86c7-5ab24111a5b4
+2024-02-08 16:33:12,817 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 75eba721-0103-440e-b517-b9f80e5c6201
+2024-02-08 16:33:12,826 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 8d340e0a-2f27-4f0c-8683-c76bb73aa5ef
+2024-02-08 16:33:14,771 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 50126065-93c9-44ac-a217-18abf8dfc8ab) with status 201
+2024-02-08 16:33:14,771 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: a0285417-f631-4c4e-a354-066706bd08e7) with status 201
+2024-02-08 16:33:14,788 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of b125ce5d-938a-4165-8101-da8a653e2da3
+2024-02-08 16:33:14,788 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of e3c0b360-763a-47f2-bec2-77a1e8668add
+2024-02-08 16:33:14,802 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 12d969dc-1ec1-44af-93ab-d15efaf4fb31) with status 201
+2024-02-08 16:33:14,802 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: df7b7955-157c-43f1-a65f-c7ff2e3a2ae1) with status 201
+2024-02-08 16:33:14,818 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 5f5bab30-8c2a-4e39-baae-5f64a7306ca3) with status 201
+2024-02-08 16:33:14,818 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 8d2692a5-def5-4d5f-bde2-7847e39daede
+2024-02-08 16:33:14,818 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: e208b106-6297-430a-89b5-9cc6ec9dc5f0) with status 201
+2024-02-08 16:33:14,834 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 30cee112-a7f0-4f95-b389-48bda1367747) with status 201
+2024-02-08 16:33:14,834 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 98edd607-8f0b-4dd9-869f-11b64640a14b
+2024-02-08 16:33:14,834 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 893e4f9d-c905-4127-98bd-97b86db43f5d
+2024-02-08 16:33:14,855 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of bfd80a38-2f43-4d13-bddd-14188ea1418c
+2024-02-08 16:33:14,856 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of ef9d841f-b6d7-4f37-aeca-3755bfef0332
+2024-02-08 16:33:14,874 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 8b9abcc3-7cd7-4a6c-86c7-5ab24111a5b4) with status 201
+2024-02-08 16:33:14,874 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 8d340e0a-2f27-4f0c-8683-c76bb73aa5ef) with status 201
+2024-02-08 16:33:14,874 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 75eba721-0103-440e-b517-b9f80e5c6201) with status 201
+2024-02-08 16:33:14,881 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 173868e6-a258-4f58-953f-8017e6395cce
+2024-02-08 16:33:14,881 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 5799ad33-647a-4b2f-b710-3b2676f6754e
+2024-02-08 16:33:14,881 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of dae60d28-54fd-4811-8434-3cc4fd7b636b
+2024-02-08 16:33:16,828 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $b125ce5d-938a-4165-8101-da8a653e2da3) with status $201
+2024-02-08 16:33:16,828 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $e3c0b360-763a-47f2-bec2-77a1e8668add) with status $201
+2024-02-08 16:33:16,845 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of ef30de10-8ccc-4cdf-a016-b290e94baee3
+2024-02-08 16:33:16,845 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of e56b499c-32bb-465e-9445-2127896ae6bb
+2024-02-08 16:33:16,845 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $8d2692a5-def5-4d5f-bde2-7847e39daede) with status $201
+2024-02-08 16:33:16,859 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of e6213974-78f2-4fe6-ad5f-4db165fe3250
+2024-02-08 16:33:16,859 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $893e4f9d-c905-4127-98bd-97b86db43f5d) with status $201
+2024-02-08 16:33:16,875 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 412814d5-fca0-49a6-aa85-33a8b24ecc30
+2024-02-08 16:33:16,875 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $98edd607-8f0b-4dd9-869f-11b64640a14b) with status $201
+2024-02-08 16:33:16,891 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $ef9d841f-b6d7-4f37-aeca-3755bfef0332) with status $201
+2024-02-08 16:33:16,891 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $bfd80a38-2f43-4d13-bddd-14188ea1418c) with status $201
+2024-02-08 16:33:16,906 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 6ed9afce-f96d-4ded-8881-a80e794c18aa
+2024-02-08 16:33:16,906 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 6894a4a9-ff91-4387-873b-c92ac2a99827
+2024-02-08 16:33:16,906 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of f8ca0cad-787c-4430-b6a2-78880db7737c
+2024-02-08 16:33:16,923 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $5799ad33-647a-4b2f-b710-3b2676f6754e) with status $201
+2024-02-08 16:33:16,923 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $dae60d28-54fd-4811-8434-3cc4fd7b636b) with status $201
+2024-02-08 16:33:16,923 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $173868e6-a258-4f58-953f-8017e6395cce) with status $201
+2024-02-08 16:33:16,938 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 978fde80-4e91-4ddc-b9e3-639be09b4804
+2024-02-08 16:33:16,938 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 160548b4-4d9e-46a9-b1af-668c64244404
+2024-02-08 16:33:16,938 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of f834dc50-e725-4a24-ace4-fe97d2ef11e9
+2024-02-08 16:33:18,885 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: e56b499c-32bb-465e-9445-2127896ae6bb) with status 201
+2024-02-08 16:33:18,886 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: ef30de10-8ccc-4cdf-a016-b290e94baee3) with status 201
+2024-02-08 16:33:18,895 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: e6213974-78f2-4fe6-ad5f-4db165fe3250) with status 201
+2024-02-08 16:33:18,902 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 81b6cc6f-0b85-46c7-ae5b-b92e2d0149f5
+2024-02-08 16:33:18,902 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 36aa102b-f1ff-4d6c-99a9-af7674c0f2a9
+2024-02-08 16:33:18,910 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of f65a0a05-8398-4a4e-af33-8cbbfd083e8f
+2024-02-08 16:33:18,910 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 412814d5-fca0-49a6-aa85-33a8b24ecc30) with status 201
+2024-02-08 16:33:18,925 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 289c928a-0035-4caa-9288-741de35bd716
+2024-02-08 16:33:18,945 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: f8ca0cad-787c-4430-b6a2-78880db7737c) with status 201
+2024-02-08 16:33:18,947 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 6ed9afce-f96d-4ded-8881-a80e794c18aa) with status 201
+2024-02-08 16:33:18,948 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 6894a4a9-ff91-4387-873b-c92ac2a99827) with status 201
+2024-02-08 16:33:18,962 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of c263fd1d-8d79-4959-b630-091a724d52b3
+2024-02-08 16:33:18,963 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of a425a63f-ce5a-431d-8a6e-9fa5b0d03577
+2024-02-08 16:33:18,965 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 2adf254a-74c6-4ba0-9b93-66992e7a3862
+2024-02-08 16:33:18,981 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 978fde80-4e91-4ddc-b9e3-639be09b4804) with status 201
+2024-02-08 16:33:18,984 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: f834dc50-e725-4a24-ace4-fe97d2ef11e9) with status 201
+2024-02-08 16:33:18,985 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 160548b4-4d9e-46a9-b1af-668c64244404) with status 201
+2024-02-08 16:33:18,993 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 67b13cb8-8b9b-48b6-b5e3-e2e8a592cdc0
+2024-02-08 16:33:18,993 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 273a8635-31eb-466a-b788-885fc7b9c2c5
+2024-02-08 16:33:18,993 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 888a7aea-a6c9-443d-a015-5f7fa2b1bb86
+2024-02-08 16:33:20,938 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $36aa102b-f1ff-4d6c-99a9-af7674c0f2a9) with status $201
+2024-02-08 16:33:20,938 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $f65a0a05-8398-4a4e-af33-8cbbfd083e8f) with status $201
+2024-02-08 16:33:20,938 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $81b6cc6f-0b85-46c7-ae5b-b92e2d0149f5) with status $201
+2024-02-08 16:33:20,949 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $289c928a-0035-4caa-9288-741de35bd716) with status $201
+2024-02-08 16:33:20,956 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of d5280bde-269a-4de5-a625-aaa67bc5e96c
+2024-02-08 16:33:20,956 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 40f291b4-754f-4b49-857f-49386c70be42
+2024-02-08 16:33:20,956 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 7d384210-f603-4bf3-a61e-f03b9a57d5f9
+2024-02-08 16:33:20,962 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 5a05b8b1-abad-41c2-9e3c-7d4a14d54985
+2024-02-08 16:33:20,986 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $a425a63f-ce5a-431d-8a6e-9fa5b0d03577) with status $201
+2024-02-08 16:33:20,986 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $c263fd1d-8d79-4959-b630-091a724d52b3) with status $201
+2024-02-08 16:33:20,986 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $2adf254a-74c6-4ba0-9b93-66992e7a3862) with status $201
+2024-02-08 16:33:21,001 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of d65c1869-c761-4ba7-b9c9-2e7444dc59fa
+2024-02-08 16:33:21,001 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of a59028c1-1229-4d0e-ad13-10c9f43d0872
+2024-02-08 16:33:21,001 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 26feab03-c255-45b6-9ee7-9ed11c249189
+2024-02-08 16:33:21,034 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $888a7aea-a6c9-443d-a015-5f7fa2b1bb86) with status $201
+2024-02-08 16:33:21,034 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $273a8635-31eb-466a-b788-885fc7b9c2c5) with status $201
+2024-02-08 16:33:21,034 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $67b13cb8-8b9b-48b6-b5e3-e2e8a592cdc0) with status $201
+2024-02-08 16:33:21,049 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of fdc46e6d-15f2-4c9c-971d-69c51e905b5b
+2024-02-08 16:33:21,049 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 445ddd41-320c-42cd-a117-80259f646abd
+2024-02-08 16:33:21,049 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of c60e1562-47ba-4649-bf31-aad77bf358de
+2024-02-08 16:33:22,997 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: d5280bde-269a-4de5-a625-aaa67bc5e96c) with status 201
+2024-02-08 16:33:22,997 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 5a05b8b1-abad-41c2-9e3c-7d4a14d54985) with status 201
+2024-02-08 16:33:23,013 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 7d384210-f603-4bf3-a61e-f03b9a57d5f9) with status 201
+2024-02-08 16:33:23,013 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 40f291b4-754f-4b49-857f-49386c70be42) with status 201
+2024-02-08 16:33:23,017 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of d939c027-6ff4-4537-b5e5-4d220ba59bd7
+2024-02-08 16:33:23,017 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 9b19e0b8-54bf-434f-b61e-ccffa2d62bbb
+2024-02-08 16:33:23,029 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 077707fa-2e03-45f5-bd6d-e56a11a528d8
+2024-02-08 16:33:23,029 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of b72165af-767c-4756-a05e-88f2bcef7f37
+2024-02-08 16:33:23,035 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: d65c1869-c761-4ba7-b9c9-2e7444dc59fa) with status 201
+2024-02-08 16:33:23,046 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: a59028c1-1229-4d0e-ad13-10c9f43d0872) with status 201
+2024-02-08 16:33:23,046 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 8e825c8f-afc0-487e-af15-0d6cf92ca715
+2024-02-08 16:33:23,046 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 26feab03-c255-45b6-9ee7-9ed11c249189) with status 201
+2024-02-08 16:33:23,061 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of e0110b2f-2a70-4771-a525-d6f1b32472cf
+2024-02-08 16:33:23,061 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of d35fb43e-2798-49c9-b7d9-581963844e3b
+2024-02-08 16:33:23,077 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: c60e1562-47ba-4649-bf31-aad77bf358de) with status 201
+2024-02-08 16:33:23,077 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 445ddd41-320c-42cd-a117-80259f646abd) with status 201
+2024-02-08 16:33:23,077 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: fdc46e6d-15f2-4c9c-971d-69c51e905b5b) with status 201
+2024-02-08 16:33:23,093 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 2f83c53a-30c0-4348-ad2c-19736838f0bb
+2024-02-08 16:33:23,093 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 2430c82d-0265-4ef6-8b96-2e55bf9a069f
+2024-02-08 16:33:23,093 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 83cbb702-3b57-4abc-847a-e1fd79d8c781
+2024-02-08 16:33:25,076 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $b72165af-767c-4756-a05e-88f2bcef7f37) with status $201
+2024-02-08 16:33:25,090 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $077707fa-2e03-45f5-bd6d-e56a11a528d8) with status $201
+2024-02-08 16:33:25,090 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $d939c027-6ff4-4537-b5e5-4d220ba59bd7) with status $201
+2024-02-08 16:33:25,090 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $9b19e0b8-54bf-434f-b61e-ccffa2d62bbb) with status $201
+2024-02-08 16:33:25,090 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $8e825c8f-afc0-487e-af15-0d6cf92ca715) with status $201
+2024-02-08 16:33:25,106 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 93fdd96f-0d15-41b5-8930-b84c138cd5e7
+2024-02-08 16:33:25,114 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 4f164d51-9b33-4ae3-98d9-27023ce42826
+2024-02-08 16:33:25,116 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $d35fb43e-2798-49c9-b7d9-581963844e3b) with status $201
+2024-02-08 16:33:25,116 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $e0110b2f-2a70-4771-a525-d6f1b32472cf) with status $201
+2024-02-08 16:33:25,122 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 4e378c22-521a-42b2-952a-d73151d9cd38
+2024-02-08 16:33:25,122 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 577e6d48-6be6-4b28-ab46-513334475c90
+2024-02-08 16:33:25,122 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of edb2f88f-a0cb-4fc9-84ee-98a08e1b59c0
+2024-02-08 16:33:25,122 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 0df9e6f2-4528-431b-869b-bd4e21ab5d83
+2024-02-08 16:33:25,122 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 71874e37-9b29-44e1-b31d-0bc5a095ed72
+2024-02-08 16:33:25,138 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $2430c82d-0265-4ef6-8b96-2e55bf9a069f) with status $201
+2024-02-08 16:33:25,138 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $83cbb702-3b57-4abc-847a-e1fd79d8c781) with status $201
+2024-02-08 16:33:25,152 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $2f83c53a-30c0-4348-ad2c-19736838f0bb) with status $201
+2024-02-08 16:33:25,152 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of eb9a3b0b-0a8e-48c2-9641-4e75ec86d475
+2024-02-08 16:33:25,152 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 5d71df9b-a2fc-4da2-8d99-493b140f364e
+2024-02-08 16:33:25,152 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 42f4b79a-5df2-4a72-8b46-aad6c5243293
+2024-02-08 16:33:27,148 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 93fdd96f-0d15-41b5-8930-b84c138cd5e7) with status 201
+2024-02-08 16:33:27,165 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 71e81f50-cff8-495d-91ec-25a005ffc3ed
+2024-02-08 16:33:27,181 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 4e378c22-521a-42b2-952a-d73151d9cd38) with status 201
+2024-02-08 16:33:27,181 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: edb2f88f-a0cb-4fc9-84ee-98a08e1b59c0) with status 201
+2024-02-08 16:33:27,181 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 4f164d51-9b33-4ae3-98d9-27023ce42826) with status 201
+2024-02-08 16:33:27,181 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 577e6d48-6be6-4b28-ab46-513334475c90) with status 201
+2024-02-08 16:33:27,196 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of ae084297-b33c-42ff-9db8-8c01e2b11501
+2024-02-08 16:33:27,196 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 12041dd9-b0eb-45b8-9029-b2a59b841425
+2024-02-08 16:33:27,196 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 73332a1c-08da-4e95-a6fd-3a9e14b4792c
+2024-02-08 16:33:27,212 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 60232cc4-f618-4130-912b-b7e4ca695ee0
+2024-02-08 16:33:27,212 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 0df9e6f2-4528-431b-869b-bd4e21ab5d83) with status 201
+2024-02-08 16:33:27,212 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: eb9a3b0b-0a8e-48c2-9641-4e75ec86d475) with status 201
+2024-02-08 16:33:27,212 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 71874e37-9b29-44e1-b31d-0bc5a095ed72) with status 201
+2024-02-08 16:33:27,212 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 42f4b79a-5df2-4a72-8b46-aad6c5243293) with status 201
+2024-02-08 16:33:27,212 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 5d71df9b-a2fc-4da2-8d99-493b140f364e) with status 201
+2024-02-08 16:33:27,234 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 141e5098-9c59-4746-ba60-15204513f7bd
+2024-02-08 16:33:27,234 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 3bd147be-b404-40b1-a36e-f9de09cbff2c
+2024-02-08 16:33:27,234 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of c741b04b-0b05-4646-b1ac-d44659f1c936
+2024-02-08 16:33:27,243 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 15377dc5-0ad3-4e4c-84c1-b98200e8ae02
+2024-02-08 16:33:27,243 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 801e2197-813a-49bc-838e-4f37cf5bfaeb
+2024-02-08 16:33:29,208 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $71e81f50-cff8-495d-91ec-25a005ffc3ed) with status $201
+2024-02-08 16:33:29,223 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 6732dd27-777f-433b-bf41-36c785054630
+2024-02-08 16:33:29,254 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $60232cc4-f618-4130-912b-b7e4ca695ee0) with status $201
+2024-02-08 16:33:29,254 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $73332a1c-08da-4e95-a6fd-3a9e14b4792c) with status $201
+2024-02-08 16:33:29,270 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $12041dd9-b0eb-45b8-9029-b2a59b841425) with status $201
+2024-02-08 16:33:29,273 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $ae084297-b33c-42ff-9db8-8c01e2b11501) with status $201
+2024-02-08 16:33:29,276 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 90114cb1-1bd4-4685-bdd3-c51afec385d3
+2024-02-08 16:33:29,276 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 47a52056-b778-49ec-b419-ad7c139208f7
+2024-02-08 16:33:29,286 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 1e4dc460-bf38-4954-bff5-5052627ca78a
+2024-02-08 16:33:29,286 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 0f8182d7-31c7-4dad-8cc6-608d275a6ba0
+2024-02-08 16:33:29,286 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $3bd147be-b404-40b1-a36e-f9de09cbff2c) with status $201
+2024-02-08 16:33:29,286 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $15377dc5-0ad3-4e4c-84c1-b98200e8ae02) with status $201
+2024-02-08 16:33:29,286 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $c741b04b-0b05-4646-b1ac-d44659f1c936) with status $201
+2024-02-08 16:33:29,286 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $141e5098-9c59-4746-ba60-15204513f7bd) with status $201
+2024-02-08 16:33:29,302 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $801e2197-813a-49bc-838e-4f37cf5bfaeb) with status $201
+2024-02-08 16:33:29,317 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of bcbd4964-1df5-486f-a0ea-7b429d58dfe0
+2024-02-08 16:33:29,317 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 1044935b-66ba-40ae-9f30-153cda0e8924
+2024-02-08 16:33:29,317 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of aff0bfe0-661d-420b-ae83-5ee3727a47e5
+2024-02-08 16:33:29,317 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 518f1002-0617-454a-aeee-5d14b32c6c1f
+2024-02-08 16:33:29,317 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 71c8dd4f-f2e6-4ec8-9085-4aac3a395ff9
+2024-02-08 16:33:31,263 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 6732dd27-777f-433b-bf41-36c785054630) with status 201
+2024-02-08 16:33:31,280 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 4de275c6-c001-4581-943c-e30285ed577a
+2024-02-08 16:33:31,326 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 1e4dc460-bf38-4954-bff5-5052627ca78a) with status 201
+2024-02-08 16:33:31,326 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 47a52056-b778-49ec-b419-ad7c139208f7) with status 201
+2024-02-08 16:33:31,326 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 90114cb1-1bd4-4685-bdd3-c51afec385d3) with status 201
+2024-02-08 16:33:31,326 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 0f8182d7-31c7-4dad-8cc6-608d275a6ba0) with status 201
+2024-02-08 16:33:31,342 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 52408a36-9248-4262-bf9c-5738f3718612
+2024-02-08 16:33:31,342 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 1ebcc8fe-144d-48d2-9f2c-a790e2d4e95c
+2024-02-08 16:33:31,342 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 5c15525d-a949-4d30-8912-2955549f3562
+2024-02-08 16:33:31,342 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of cfeedbe8-bcf2-493d-847d-4c9091aba2dd
+2024-02-08 16:33:31,362 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 1044935b-66ba-40ae-9f30-153cda0e8924) with status 201
+2024-02-08 16:33:31,362 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: bcbd4964-1df5-486f-a0ea-7b429d58dfe0) with status 201
+2024-02-08 16:33:31,362 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 71c8dd4f-f2e6-4ec8-9085-4aac3a395ff9) with status 201
+2024-02-08 16:33:31,374 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: aff0bfe0-661d-420b-ae83-5ee3727a47e5) with status 201
+2024-02-08 16:33:31,374 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 518f1002-0617-454a-aeee-5d14b32c6c1f) with status 201
+2024-02-08 16:33:31,374 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of c7d9fb23-db40-417b-adff-fd932b138ee5
+2024-02-08 16:33:31,374 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of a744ff82-ad45-4a6c-a123-b13fbde75ee4
+2024-02-08 16:33:31,374 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of a9f05af5-b5e3-49cc-a436-b7e3016966f5
+2024-02-08 16:33:31,391 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 32d4867c-f773-47d4-87a8-149da33b91f7
+2024-02-08 16:33:31,391 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 3335afd6-a4a4-4633-944b-7bff21937e0d
+2024-02-08 16:33:33,321 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $4de275c6-c001-4581-943c-e30285ed577a) with status $201
+2024-02-08 16:33:33,321 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of e89eae92-b2f5-4806-89e6-549fc40fde29
+2024-02-08 16:33:33,394 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $52408a36-9248-4262-bf9c-5738f3718612) with status $201
+2024-02-08 16:33:33,399 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $1ebcc8fe-144d-48d2-9f2c-a790e2d4e95c) with status $201
+2024-02-08 16:33:33,401 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $cfeedbe8-bcf2-493d-847d-4c9091aba2dd) with status $201
+2024-02-08 16:33:33,404 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $5c15525d-a949-4d30-8912-2955549f3562) with status $201
+2024-02-08 16:33:33,404 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of bc31ee28-b010-462e-aeee-5d028a16d6b1
+2024-02-08 16:33:33,411 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 96574e0d-74cd-4bb4-82f2-831b5905eece
+2024-02-08 16:33:33,415 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $c7d9fb23-db40-417b-adff-fd932b138ee5) with status $201
+2024-02-08 16:33:33,415 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 3282d56e-4ade-47aa-b636-9b4352d60e9c
+2024-02-08 16:33:33,415 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $a9f05af5-b5e3-49cc-a436-b7e3016966f5) with status $201
+2024-02-08 16:33:33,415 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 9f9f6e59-18d7-4598-b2be-36bd0a6e7779
+2024-02-08 16:33:33,415 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $a744ff82-ad45-4a6c-a123-b13fbde75ee4) with status $201
+2024-02-08 16:33:33,431 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $32d4867c-f773-47d4-87a8-149da33b91f7) with status $201
+2024-02-08 16:33:33,440 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of aa7adeab-289f-4151-ac3b-9975d06effa0
+2024-02-08 16:33:33,440 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $3335afd6-a4a4-4633-944b-7bff21937e0d) with status $201
+2024-02-08 16:33:33,447 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of cca1e317-73bf-4fd1-adc0-8beaf69d07cf
+2024-02-08 16:33:33,448 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of e5c87ba9-3e6b-48fe-b9d4-59aac6a84a56
+2024-02-08 16:33:33,448 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of fc7f623a-fcaf-42ec-901e-c68712533c35
+2024-02-08 16:33:33,448 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 48437f5f-44d1-4586-aa16-bca7bde355c6
+2024-02-08 16:33:35,344 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: e89eae92-b2f5-4806-89e6-549fc40fde29) with status 201
+2024-02-08 16:33:35,359 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of bb36e4cd-83ed-4260-98d0-d19c7cf7e697
+2024-02-08 16:33:35,439 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: bc31ee28-b010-462e-aeee-5d028a16d6b1) with status 201
+2024-02-08 16:33:35,454 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 96574e0d-74cd-4bb4-82f2-831b5905eece) with status 201
+2024-02-08 16:33:35,454 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 9f9f6e59-18d7-4598-b2be-36bd0a6e7779) with status 201
+2024-02-08 16:33:35,457 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 11d0b14e-bc36-4a0f-864c-7e31802cd442
+2024-02-08 16:33:35,457 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 3282d56e-4ade-47aa-b636-9b4352d60e9c) with status 201
+2024-02-08 16:33:35,471 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 0209dbbe-d3cf-479d-ace4-c919d5e48424
+2024-02-08 16:33:35,473 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of f1ed1d81-e6bc-45a3-a987-0df3a0e27f4d
+2024-02-08 16:33:35,475 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of b75a186e-c005-4dac-b8cc-d2c1668118f6
+2024-02-08 16:33:35,486 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: cca1e317-73bf-4fd1-adc0-8beaf69d07cf) with status 201
+2024-02-08 16:33:35,486 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: fc7f623a-fcaf-42ec-901e-c68712533c35) with status 201
+2024-02-08 16:33:35,486 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: aa7adeab-289f-4151-ac3b-9975d06effa0) with status 201
+2024-02-08 16:33:35,486 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: e5c87ba9-3e6b-48fe-b9d4-59aac6a84a56) with status 201
+2024-02-08 16:33:35,486 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 48437f5f-44d1-4586-aa16-bca7bde355c6) with status 201
+2024-02-08 16:33:35,523 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 751889da-16db-4fd7-a0bf-820073ae9b82
+2024-02-08 16:33:35,523 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 3c91c319-bd15-4a8d-bd11-2f62f71bb7df
+2024-02-08 16:33:35,523 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 31047a79-c8f9-4207-bd2a-249c3235b93c
+2024-02-08 16:33:35,523 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of b83422e3-a7bb-49ac-9eca-46dc25fdcd66
+2024-02-08 16:33:35,523 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 2925eda6-0e22-45c8-8d86-72c307e1970a
+2024-02-08 16:33:37,385 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $bb36e4cd-83ed-4260-98d0-d19c7cf7e697) with status $201
+2024-02-08 16:33:37,404 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of dea9ae43-28cc-4be5-bff6-b28dd353a560
+2024-02-08 16:33:37,479 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $11d0b14e-bc36-4a0f-864c-7e31802cd442) with status $201
+2024-02-08 16:33:37,503 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $b75a186e-c005-4dac-b8cc-d2c1668118f6) with status $201
+2024-02-08 16:33:37,504 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $0209dbbe-d3cf-479d-ace4-c919d5e48424) with status $201
+2024-02-08 16:33:37,520 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $f1ed1d81-e6bc-45a3-a987-0df3a0e27f4d) with status $201
+2024-02-08 16:33:37,566 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 3d3e1814-507d-47f7-b835-ba50ea53814b
+2024-02-08 16:33:37,566 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 47b74896-5636-431d-8432-7451bce429cd
+2024-02-08 16:33:37,566 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 065c5d42-59f1-481b-80ee-9723dd9c672e
+2024-02-08 16:33:37,567 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of cf24670d-b6fb-4768-8e7a-36a3d9a5f652
+2024-02-08 16:33:37,580 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $3c91c319-bd15-4a8d-bd11-2f62f71bb7df) with status $201
+2024-02-08 16:33:37,580 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $b83422e3-a7bb-49ac-9eca-46dc25fdcd66) with status $201
+2024-02-08 16:33:37,580 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $751889da-16db-4fd7-a0bf-820073ae9b82) with status $201
+2024-02-08 16:33:37,586 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $31047a79-c8f9-4207-bd2a-249c3235b93c) with status $201
+2024-02-08 16:33:37,586 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $2925eda6-0e22-45c8-8d86-72c307e1970a) with status $201
+2024-02-08 16:33:37,605 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of c1894fe4-6ebb-4b7b-b51c-40f46dbc998b
+2024-02-08 16:33:37,605 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 282b3ee9-4157-4bdb-966c-fcde14a526dc
+2024-02-08 16:33:37,605 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of ce1eef66-accb-4d63-bf00-73816bc7a9bb
+2024-02-08 16:33:37,610 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of b0fa6e06-78b1-4967-8b70-a70c244df6a5
+2024-02-08 16:33:37,622 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of f0416182-d0b2-4cbb-8670-bf6cc13b2b68
+2024-02-08 16:33:39,443 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: dea9ae43-28cc-4be5-bff6-b28dd353a560) with status 201
+2024-02-08 16:33:39,443 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 0728cedb-0484-4cba-aa81-9d91c726a8c1
+2024-02-08 16:33:39,608 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 47b74896-5636-431d-8432-7451bce429cd) with status 201
+2024-02-08 16:33:39,608 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: cf24670d-b6fb-4768-8e7a-36a3d9a5f652) with status 201
+2024-02-08 16:33:39,608 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 3d3e1814-507d-47f7-b835-ba50ea53814b) with status 201
+2024-02-08 16:33:39,616 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 065c5d42-59f1-481b-80ee-9723dd9c672e) with status 201
+2024-02-08 16:33:39,623 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of b3c6c111-630c-497c-ae7b-5814b276cca3
+2024-02-08 16:33:39,627 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of e5144a33-5ba4-4ee6-b5f2-595941dcc272
+2024-02-08 16:33:39,632 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 9644d46d-afb2-428f-8bff-9464693448ad
+2024-02-08 16:33:39,632 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 17217139-2d59-43dc-8040-a553ce357115
+2024-02-08 16:33:39,649 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: b0fa6e06-78b1-4967-8b70-a70c244df6a5) with status 201
+2024-02-08 16:33:39,649 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 282b3ee9-4157-4bdb-966c-fcde14a526dc) with status 201
+2024-02-08 16:33:39,656 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: ce1eef66-accb-4d63-bf00-73816bc7a9bb) with status 201
+2024-02-08 16:33:39,660 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: c1894fe4-6ebb-4b7b-b51c-40f46dbc998b) with status 201
+2024-02-08 16:33:39,660 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: f0416182-d0b2-4cbb-8670-bf6cc13b2b68) with status 201
+2024-02-08 16:33:39,666 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of f552fb35-69be-4452-b6e6-3bbefad71a30
+2024-02-08 16:33:39,666 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 89d05fba-8406-4666-9255-32dfd620c8b2
+2024-02-08 16:33:39,666 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of f39879d6-c430-452c-81ed-03ff5186ee91
+2024-02-08 16:33:39,666 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of 10967c7e-ab8a-4ce7-b1c7-82bafdc052f3
+2024-02-08 16:33:39,680 - basicLogger - INFO - Received event Hotel Room Booking request with a trace id of f5b4d439-ad13-4524-830b-46913d0d1750
+2024-02-08 16:33:41,485 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $0728cedb-0484-4cba-aa81-9d91c726a8c1) with status $201
+2024-02-08 16:33:41,501 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 8ab02180-236a-4162-b15d-be7a2f02224b
+2024-02-08 16:33:41,673 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $17217139-2d59-43dc-8040-a553ce357115) with status $201
+2024-02-08 16:33:41,687 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $9644d46d-afb2-428f-8bff-9464693448ad) with status $201
+2024-02-08 16:33:41,689 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $b3c6c111-630c-497c-ae7b-5814b276cca3) with status $201
+2024-02-08 16:33:41,690 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $e5144a33-5ba4-4ee6-b5f2-595941dcc272) with status $201
+2024-02-08 16:33:41,695 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of c12a9c5c-d8ea-4dff-b4f0-5414e570aa30
+2024-02-08 16:33:41,695 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of ffe8d9d7-6763-4592-ad05-9d993344b4fa
+2024-02-08 16:33:41,695 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $89d05fba-8406-4666-9255-32dfd620c8b2) with status $201
+2024-02-08 16:33:41,707 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 14d16b0d-1b54-4725-a129-050a420fcec0
+2024-02-08 16:33:41,713 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 08e70f20-90e2-452c-a0a3-2bd22fecfc21
+2024-02-08 16:33:41,721 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $f552fb35-69be-4452-b6e6-3bbefad71a30) with status $201
+2024-02-08 16:33:41,721 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of ab5f9e77-132f-474c-8e77-f155207e791f
+2024-02-08 16:33:41,721 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $f5b4d439-ad13-4524-830b-46913d0d1750) with status $201
+2024-02-08 16:33:41,721 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $10967c7e-ab8a-4ce7-b1c7-82bafdc052f3) with status $201
+2024-02-08 16:33:41,721 - basicLogger - INFO - Returned event Hotel Room Booking response (Id: $f39879d6-c430-452c-81ed-03ff5186ee91) with status $201
+2024-02-08 16:33:41,737 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 305a5329-da3c-419b-9f5f-8dce21ee11f8
+2024-02-08 16:33:41,741 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 4fad231a-4c00-4c80-9ad4-0b3bd8454bda
+2024-02-08 16:33:41,741 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of 9dd9728b-bdf9-493c-83f7-fd5418a3f6a4
+2024-02-08 16:33:41,741 - basicLogger - INFO - Received event Hotel Activity Booking request with a trace id of b4327d6e-46b1-4da9-bc08-1daf75dc29c4
+2024-02-08 16:33:43,554 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 8ab02180-236a-4162-b15d-be7a2f02224b) with status 201
+2024-02-08 16:33:43,742 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: c12a9c5c-d8ea-4dff-b4f0-5414e570aa30) with status 201
+2024-02-08 16:33:43,742 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 08e70f20-90e2-452c-a0a3-2bd22fecfc21) with status 201
+2024-02-08 16:33:43,758 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: ffe8d9d7-6763-4592-ad05-9d993344b4fa) with status 201
+2024-02-08 16:33:43,759 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 14d16b0d-1b54-4725-a129-050a420fcec0) with status 201
+2024-02-08 16:33:43,766 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: ab5f9e77-132f-474c-8e77-f155207e791f) with status 201
+2024-02-08 16:33:43,766 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 305a5329-da3c-419b-9f5f-8dce21ee11f8) with status 201
+2024-02-08 16:33:43,775 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 9dd9728b-bdf9-493c-83f7-fd5418a3f6a4) with status 201
+2024-02-08 16:33:43,775 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: b4327d6e-46b1-4da9-bc08-1daf75dc29c4) with status 201
+2024-02-08 16:33:43,791 - basicLogger - INFO - Returned event Hotel Activity Booking response (Id: 4fad231a-4c00-4c80-9ad4-0b3bd8454bda) with status 201
