@@ -87,6 +87,16 @@ def populate_stats():
 
     print("Pass Two!")
 
+    if stats.max_hotel_room_ppl:
+        max_hotel_room_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_room_ppl.desc()).first() 
+        max_hotel_room_ppl_int = max_hotel_room_ppl_sql.max_hotel_room_ppl
+        # print(max_hotel_room_ppl_int)
+    
+    if stats.max_hotel_activity_ppl:
+        max_hotel_activity_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_activity_ppl.desc()).first() 
+        max_hotel_activity_ppl_int = max_hotel_activity_ppl_sql.max_hotel_activity_ppl
+        # print(max_hotel_activity_ppl_int)
+
     # - If no stats yet exist, use default values for the stats
     if stats is None:
         stats = Stats(
@@ -96,11 +106,8 @@ def populate_stats():
             max_hotel_activity_ppl = 0,
             last_updated=datetime.datetime.now()
         )
-    
-    last_updated = stats.last_updated
 
-    session.add(stats)
-    session.commit()
+    session.close()
 
     print("Pass Three!")
 
@@ -112,7 +119,9 @@ def populate_stats():
     print("Pass Four!")
 
     curren_dateime_formatted = current_datetime.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
-    last_updated_formatted = last_updated.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
+    last_updated_formatted = stats.last_updated.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
+
+    print(last_updated_formatted)
 
     # Query the two GET endpoints from your Data Store Service (using requests.get) to get all new events 
     # from the last datetime you requested them (from your statistics) to the current datetime
@@ -157,16 +166,10 @@ def populate_stats():
     # Based on the new events from the Data Store Service:
     # Calculate your updated statistics
 
-    max_hotel_room_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_room_ppl.desc()).first() 
-    max_hotel_room_ppl_int = max_hotel_room_ppl_sql.max_hotel_room_ppl
-    # print(max_hotel_room_ppl_int)
-
-    max_hotel_activity_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_activity_ppl.desc()).first() 
-    max_hotel_activity_ppl_int = max_hotel_activity_ppl_sql.max_hotel_activity_ppl
-    # print(max_hotel_activity_ppl_int)
-
+    session = DB_SESSION() 
 
     if len(event_1_res_json):
+        # new_num_hotel_room_reservations = stats.num_hotel_room_reservations + len(event_1_res_json)
         max_hotel_room_ppl_json = max(event_1_res_json, key=lambda event1: event1["num_of_people"])["num_of_people"]
         # print(type(max_hotel_room_ppl_json))
         # print(max_hotel_room_ppl_json)
@@ -174,12 +177,14 @@ def populate_stats():
         if max_hotel_room_ppl_json > max_hotel_room_ppl_int:
             new_max_hotel_room_ppl = max_hotel_room_ppl_json
         else:
-            new_max_hotel_room_ppl = max_hotel_room_ppl_int
-    else:
+            new_max_hotel_room_ppl = max_hotel_room_ppl_int        
+    elif len(event_1_res_json) != 0:
         new_max_hotel_room_ppl = max_hotel_room_ppl_int
 
+    print("Passsssssss")
 
     if len(event_2_res_json):
+        # new_num_hotel_activity_reservations = stats.num_hotel_activity_reservations + len(event_2_res_json)
         max_hotel_activity_ppl_json = max(event_2_res_json, key=lambda event2: event2["num_of_people"])["num_of_people"]
         # print(type(max_hotel_activity_ppl_json))
         # print(max_hotel_activity_ppl_json)
@@ -188,26 +193,34 @@ def populate_stats():
             new_max_hotel_activity_ppl = max_hotel_activity_ppl_json
         else:
             new_max_hotel_activity_ppl = max_hotel_activity_ppl_int
-    else:
+    elif len(event_2_res_json) != 0:
         new_max_hotel_activity_ppl = max_hotel_activity_ppl_int
     
     print("Pass Eight!")
-
     new_num_hotel_room_reservations = stats.num_hotel_room_reservations + len(event_1_res_json)
     new_num_hotel_activity_reservations = stats.num_hotel_activity_reservations + len(event_2_res_json)
 
     print("Pass Nine!")
-
-    new_stats = Stats(
-        num_hotel_room_reservations=new_num_hotel_room_reservations,
-        max_hotel_room_ppl=new_max_hotel_room_ppl,
-        num_hotel_activity_reservations=new_num_hotel_activity_reservations,
-        max_hotel_activity_ppl=new_max_hotel_activity_ppl,
-        last_updated=current_datetime
-    )
+    
+    if len(event_1_res_json) or len(event_2_res_json):
+        stats = Stats(
+            num_hotel_room_reservations=new_num_hotel_room_reservations,
+            max_hotel_room_ppl=new_max_hotel_room_ppl,
+            num_hotel_activity_reservations=new_num_hotel_activity_reservations,
+            max_hotel_activity_ppl=new_max_hotel_activity_ppl,
+            last_updated=current_datetime
+        )
+    else:
+        stats = Stats(
+            num_hotel_room_reservations = stats.num_hotel_room_reservations,
+            max_hotel_room_ppl = stats.max_hotel_room_ppl,
+            num_hotel_activity_reservations = stats.num_hotel_room_reservations,
+            max_hotel_activity_ppl = stats.max_hotel_activity_ppl,
+            last_updated=current_datetime
+        )
 
     # Write the updated statistics to the SQLite database file (filename defined in your configuration)
-    session.add(new_stats)
+    session.add(stats)
 
     print("Pass Ten!")
 
@@ -223,17 +236,17 @@ def populate_stats():
     print("Pass Eleven!")
 
     # Log a DEBUG message with your updated statistics values
-    logger.debug(f"Num Hotel Room Reservations: {new_stats.num_hotel_room_reservations} \n"
-                 f"Max Hotel Room People: {new_stats.max_hotel_room_ppl} \n" 
-                 f"Num Hotel Activity Reservations: {new_stats.num_hotel_activity_reservations} \n"
-                 f"Max Hotel Activity People: {new_stats.max_hotel_activity_ppl}\n"
+    logger.debug(f"Num Hotel Room Reservations: {stats.num_hotel_room_reservations} \n"
+                 f"Max Hotel Room People: {stats.max_hotel_room_ppl} \n" 
+                 f"Num Hotel Activity Reservations: {stats.num_hotel_activity_reservations} \n"
+                 f"Max Hotel Activity People: {stats.max_hotel_activity_ppl}\n"
                  f"Last Updated: {curren_dateime_formatted}")
 
     # Log an INFO message indicating period processing has ended
     logger.info("End Periodic Processing")
-
+ 
     session.commit() 
-    session.close() 
+    session.close()
 
 
 def init_scheduler():
