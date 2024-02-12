@@ -1,9 +1,6 @@
 import connexion 
-from connexion import NoContent 
 
 from sqlalchemy import create_engine
-from sqlalchemy import and_
-from sqlalchemy import func
 from sqlalchemy.orm import sessionmaker
 
 from base import Base
@@ -158,15 +155,9 @@ def populate_stats():
     # Based on the new events from the Data Store Service:
     # Calculate your updated statistics
 
-    max_hotel_room_ppl_int = stats.max_hotel_room_ppl
-    # max_hotel_room_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_room_ppl.desc()).first() 
-    # max_hotel_room_ppl_int = max_hotel_room_ppl_sql.max_hotel_room_ppl
-    # print(max_hotel_room_ppl_int)
+    max_hotel_room_ppl_sql = stats.max_hotel_room_ppl
 
-    max_hotel_activity_ppl_int = stats.max_hotel_activity_ppl
-    # max_hotel_activity_ppl_sql = session.query(Stats).order_by(Stats.max_hotel_activity_ppl.desc()).first() 
-    # max_hotel_activity_ppl_int = max_hotel_activity_ppl_sql.max_hotel_activity_ppl
-    # print(max_hotel_activity_ppl_int)
+    max_hotel_activity_ppl_sql = stats.max_hotel_activity_ppl
 
 
     if len(event_1_res_json):
@@ -174,12 +165,12 @@ def populate_stats():
         # print(type(max_hotel_room_ppl_json))
         # print(max_hotel_room_ppl_json)
 
-        if max_hotel_room_ppl_json > max_hotel_room_ppl_int:
+        if max_hotel_room_ppl_json > max_hotel_room_ppl_sql:
             new_max_hotel_room_ppl = max_hotel_room_ppl_json
         else:
-            new_max_hotel_room_ppl = max_hotel_room_ppl_int
+            new_max_hotel_room_ppl = max_hotel_room_ppl_sql
     else:
-        new_max_hotel_room_ppl = max_hotel_room_ppl_int
+        new_max_hotel_room_ppl = max_hotel_room_ppl_sql
 
 
     if len(event_2_res_json):
@@ -187,12 +178,12 @@ def populate_stats():
         # print(type(max_hotel_activity_ppl_json))
         # print(max_hotel_activity_ppl_json)
 
-        if max_hotel_activity_ppl_json > max_hotel_activity_ppl_int:
+        if max_hotel_activity_ppl_json > max_hotel_activity_ppl_sql:
             new_max_hotel_activity_ppl = max_hotel_activity_ppl_json
         else:
-            new_max_hotel_activity_ppl = max_hotel_activity_ppl_int
+            new_max_hotel_activity_ppl = max_hotel_activity_ppl_sql
     else:
-        new_max_hotel_activity_ppl = max_hotel_activity_ppl_int
+        new_max_hotel_activity_ppl = max_hotel_activity_ppl_sql
     
     print("Pass Eight!")
 
@@ -230,7 +221,7 @@ def populate_stats():
                  f"Max Hotel Room People: {new_stats.max_hotel_room_ppl} \n" 
                  f"Num Hotel Activity Reservations: {new_stats.num_hotel_activity_reservations} \n"
                  f"Max Hotel Activity People: {new_stats.max_hotel_activity_ppl}\n"
-                 f"Last Updated: {curren_dateime_formatted}")
+                 f"Last Updated: {new_stats.last_updated.strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'}")
 
     # Log an INFO message indicating period processing has ended
     logger.info("End Periodic Processing")
