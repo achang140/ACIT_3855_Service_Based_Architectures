@@ -5,9 +5,14 @@ info:
   title: Resort Hotels API
   contact:
     email: achang140@my.bcit.ca
+tags:
+  - name: resort_hotels
+    description: Hotel rooms and activities available in resort hotels located in different countries 
 paths:
   /booking/hotel-rooms:
     get:
+      tags: 
+        - resort_hotels
       summary: gets hotel room reservations
       operationId: app.get_hotel_room
       description: Gets hotel room reservations added after a timestamp
@@ -47,6 +52,8 @@ paths:
                     type: string
   /booking/hotel-activities:
     get:
+      tags: 
+        - resort_hotels
       summary: gets hotel activity reservations
       operationId: app.get_hotel_activity
       description: Gets hotel activity reservations added after a timestamp
