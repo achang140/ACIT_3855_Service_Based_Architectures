@@ -51,3 +51,10 @@ Users of the system include customers, resort hotel staff, including front count
 * [MySQL](https://dev.mysql.com/doc/refman/8.0/en/installing.html)
 
 ## Lab 5 
+* Create a new Processing Service that leverages periodic processing, logging and external configuration.
+* The Processing Service will store its data in a SQLite database file.
+* Add GET endpoints to both the Storage and Processing services.
+
+## Lab 6 
+* Use asynchronous messages through Kafka. 
+* Create a new Audit Service that will use the messages as a data source.
