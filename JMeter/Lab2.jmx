@@ -10,7 +10,7 @@
     </TestPlan>
     <hashTree>
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group">
-        <intProp name="ThreadGroup.num_threads">5</intProp>
+        <intProp name="ThreadGroup.num_threads">10</intProp>
         <intProp name="ThreadGroup.ramp_time">1</intProp>
         <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
@@ -30,7 +30,7 @@
         </RandomVariableConfig>
         <hashTree/>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request-Hotel Room Booking " enabled="true">
-          <stringProp name="HTTPSampler.domain">127.0.0.1</stringProp>
+          <stringProp name="HTTPSampler.domain">acit3855-lab6-kafka.westus3.cloudapp.azure.com</stringProp>
           <stringProp name="HTTPSampler.port">8080</stringProp>
           <stringProp name="HTTPSampler.path">/booking/hotel-rooms</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
@@ -93,8 +93,8 @@ vars.put(&quot;room_type&quot;, room_type);
           </HeaderManager>
           <hashTree/>
         </hashTree>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request-Hotel Activity Reservation " enabled="true">
-          <stringProp name="HTTPSampler.domain">127.0.0.1</stringProp>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request-Hotel Activity Reservation ">
+          <stringProp name="HTTPSampler.domain">acit3855-lab6-kafka.westus3.cloudapp.azure.com</stringProp>
           <stringProp name="HTTPSampler.port">8080</stringProp>
           <stringProp name="HTTPSampler.path">/booking/hotel-activities</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
